@@ -65,7 +65,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <div>
     <p>
-        <img width="600" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbabychan&layout=compact&theme=radical" alt="top langs" />
+        <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbabychan&layout=compact&theme=radical" alt="top langs" />
     </p>
 
   <p>
