@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a project "AUTISM SPECTRUM DISORDER".**
  
- 🌱 I’m currently learning **Docker, Nextjs, TailwindCSS**
+ 🌱 I’m currently learning **Docker, Next.js, TailwindCSS**
 
  ⚡ **When I'm not coding, you can find me dropping into Boot Camp and chasing that chicken dinner in PUBG Mobile! 🎮🐔**
 
@@ -20,7 +20,7 @@
  
 <div align="center"> 
   <a href="mailto:alenbabychan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-FF5722?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/alanbabychan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -29,13 +29,13 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
     <div>
 <a href="https://www.instagram.com/kiddo.x.__/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-333333?style=for-the-badge&logo=instagram&logoColor=red" />
+    <img src="https://img.shields.io/badge/instagram-333333?style=for-the-badge&logo=instagram&logoColor=orange" />
 <a href="https://www.facebook.com/kiddo.x23" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-333333?style=for-the-badge&logo=facebook&logoColor=red" />
+    <img src="https://img.shields.io/badge/facebook-333333?style=for-the-badge&logo=facebook&logoColor=blue" />
 <a href="https://x.com/alan_babychan" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-333333?style=for-the-badge&logo=x&logoColor=red" />
-<a href="https://www.instagram.com/kiddo.x.__/" target="_blank">
-    <img src="https://img.shields.io/badge/snapchat-333333?style=for-the-badge&logo=snapchat&logoColor=red" />
+    <img src="https://img.shields.io/badge/twitter-333333?style=for-the-badge&logo=x&logoColor=black" />
+<a href="https://www.snapchat.com/add/kiddo.x23" target="_blank">
+    <img src="https://img.shields.io/badge/snapchat-333333?style=for-the-badge&logo=snapchat&logoColor=yellow" />
   </a>
   </a>
 </div>
