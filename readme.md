@@ -70,9 +70,10 @@
 
   <p>
         <img align="left" width="400" height="160" src="https://github-readme-stats.vercel.app/api?username=alanbabychan&show_icons=true&locale=en&theme=radical" alt="alanbabychan" />
-        <img align="center" width="400" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=alanbabychan&theme=radical" alt="alanbabychan" />
+        <img align="center" width="400" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=alanbabychan" alt="alanbabychan" />
     </p>
 </div>
+
 
 
 <br/><br/>
