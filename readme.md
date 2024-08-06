@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ALAN+Babychan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ALAN+BABYCHAN!;" />
 </h1>
 
 <h3 align="center">FRONT END DEVELOPER</h3>
@@ -45,8 +45,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git," />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mongodb,c,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,php,docker" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mongodb,c++,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
