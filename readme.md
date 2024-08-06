@@ -63,11 +63,7 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width="400" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=alanbabychan&theme=radical" alt="streaks"/>
-  <img width="400" height="160" src="https://github-readme-stats.vercel.app/api?username=alanbabychan&show_icons=true&theme=radical" alt="readme stats" />
-  <br/>
+<div>
   <img width="400" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbabychan&layout=compact&theme=radical" alt="top langs" />
 </div>
 
