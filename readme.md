@@ -28,6 +28,15 @@
   <a href="https://portfolio-alen.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
     <div>
+<a href="https://www.instagram.com/kiddo.x.__/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-333333?style=for-the-badge&logo=instagram&logoColor=red" />
+<a href="https://www.facebook.com/kiddo.x23" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-333333?style=for-the-badge&logo=facebook&logoColor=red" />
+<a href="https://x.com/alan_babychan" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-333333?style=for-the-badge&logo=x&logoColor=red" />
+<a href="https://www.instagram.com/kiddo.x.__/" target="_blank">
+    <img src="https://img.shields.io/badge/snapchat-333333?style=for-the-badge&logo=snapchat&logoColor=red" />
+  </a>
   </a>
 </div>
 
