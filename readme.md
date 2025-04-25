@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+ALAN+BABYCHAN!;" />
 </h1>
 
-<h3 align="center">FRONT END DEVELOPER</h3>
+<h3 align="center">SOFTWARE ENGINEER (Web Designer)</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a project "AUTISM SPECTRUM DISORDER".**
+ 🔭 I’m currently working as **Software Engineer at "Covermatch Private Limited".**
  
  🌱 I’m currently learning **Docker, Next.js, TailwindCSS**
 
