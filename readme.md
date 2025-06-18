@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working as **Software Engineer at "Covermatch Private Limited".**
+ 🔭 I’m currently working as **Software Engineer at "Covermatch Technologies FZCO".**
  
  🌱 I’m currently learning **Docker, Next.js, TailwindCSS**
 
