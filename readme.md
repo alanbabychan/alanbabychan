@@ -12,7 +12,7 @@
  
  🔭 I’m currently working as **Software Engineer at "Covermatch Technologies FZCO".**
  
- 🌱 I’m currently learning **Docker, Next.js, TailwindCSS**
+ 🌱 I’m currently learning **AWS, Docker, Next.js, TailwindCSS**
 
  ⚡ **When I'm not coding, you can find me dropping into Boot Camp and chasing that chicken dinner in PUBG Mobile! 🎮🐔**
 
