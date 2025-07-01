@@ -12,7 +12,7 @@
  
  🔭 I’m currently working as **Software Engineer at "Covermatch Technologies FZCO".**
  
- 🌱 I’m currently learning **AWS, Docker, Next.js, TailwindCSS**
+ 🌱 I’m currently learning **AWS, Docker, Strapi**
 
  ⚡ **When I'm not coding, you can find me dropping into Boot Camp and chasing that chicken dinner in PUBG Mobile! 🎮🐔**
 
@@ -46,7 +46,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,php,docker" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mongodb,c,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mongodb,c,java,nextjs,mysql" >
+     <img src="https://skillicons.dev/icons?i=aws,github,gitlab,vercel,wordpress,wix" /><br>
 </div>
 
 <br/>
