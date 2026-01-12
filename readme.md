@@ -1,89 +1,107 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+ALAN+BABYCHAN!;" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;I'm+Alan+Babychan!"
+  />
 </h1>
 
-<h3 align="center">SOFTWARE ENGINEER (Web Designer)</h3>
+<h3 align="center">Software Engineer · Web Developer</h3>
 
-<br/>
+---
 
-<div align="center">
- 
- 🔭 I’m currently working as **Software Engineer at "Covermatch Technologies FZCO".**
- 
- 🌱 I’m currently learning **AWS, Docker, Strapi**
+## 👋 About Me
 
- ⚡ **When I'm not coding, you can find me dropping into Boot Camp and chasing that chicken dinner in PUBG Mobile! 🎮🐔**
+- 🔭 Currently working as **Software Engineer at Covermatch Technologies FZCO**
+- 🌱 Learning **AWS, Docker, Strapi**
+- ⚡ When I’m not coding, you’ll find me at the gym or chasing that **PUBG Mobile chicken dinner 🎮🐔**
 
- </div>
- 
-<div align="center"> 
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="mailto:alenbabychan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF5722?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Gmail-FF5722?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/alanbabychan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-alen.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-    <div>
-<a href="https://www.instagram.com/kiddo.x.__/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-333333?style=for-the-badge&logo=instagram&logoColor=orange" />
-<a href="https://www.facebook.com/kiddo.x23" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-333333?style=for-the-badge&logo=facebook&logoColor=blue" />
-<a href="https://x.com/alan_babychan" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-333333?style=for-the-badge&logo=x&logoColor=black" />
-<a href="https://www.snapchat.com/add/kiddo.x23" target="_blank">
-    <img src="https://img.shields.io/badge/snapchat-333333?style=for-the-badge&logo=snapchat&logoColor=yellow" />
+  <a href="https://alanbabychan.online" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/kiddo.x.__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=orange" />
   </a>
-</div>
+  <a href="https://www.facebook.com/kiddo.x23" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-333333?style=for-the-badge&logo=facebook&logoColor=blue" />
+  </a>
+  <a href="https://x.com/alan_babychan" target="_blank">
+    <img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.snapchat.com/add/kiddo.x23" target="_blank">
+    <img src="https://img.shields.io/badge/Snapchat-333333?style=for-the-badge&logo=snapchat&logoColor=yellow" />
+  </a>
+</p>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,php,docker" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mongodb,c,java,nextjs,mysql" >
-     <img src="https://skillicons.dev/icons?i=aws,github,gitlab,vercel,wordpress,wix" /><br>
-</div>
+---
 
-<br/>
-<hr/>
+## ⚒️ Languages · Frameworks · Tools
 
-<div align="center">
-  <h2>🐍 Hourly Contribution Rate 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js,ts" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,php,java,c,mongodb,mysql" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,vercel,wordpress,wix" />
+</p>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<div>
-    <p>
-        <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbabychan&layout=compact&theme=radical" alt="top langs" />
-    </p>
+## 🐍 Contribution Activity
 
-  <p>
-        <img align="left" width="400" height="160" src="https://github-readme-stats.vercel.app/api?username=alanbabychan&show_icons=true&locale=en&theme=radical" alt="alanbabychan" />
-        <img align="center" width="400" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=alanbabychan&show_icons=true&locale=en&theme=radical" alt="alanbabychan" />
+<p align="center">
+  <img 
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"
+  />
+</p>
 
-   </p>
-</div>
+---
 
-<br/><br/>
+## 📊 GitHub Stats
 
-<hr/>
+<p align="center">
+  <img 
+    width="400" 
+    src="https://github-readme-stats.vercel.app/api?username=alanbabychan&show_icons=true&theme=radical" 
+  />
+  <img 
+    width="400" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=alanbabychan&theme=radical" 
+  />
+</p>
 
-<br/>
+<p align="center">
+  <img 
+    width="400" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbabychan&layout=compact&theme=radical" 
+  />
+</p>
 
-<div align="center">
-<a href='https://www.buymeacoffee.com/alanbabychan' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
-</div>
+---
 
-<br/>
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/alanbabychan" target="_blank">
+    <img 
+      src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" 
+      height="64"
+      alt="Buy Me a Coffee"
+    />
+  </a>
+</p>
