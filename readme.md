@@ -64,7 +64,7 @@
 
 [![](https://img.shields.io/badge/>>_GMAIL-alenbabychan@gmail.com-009926?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:alenbabychan@gmail.com)
 &nbsp;
-[![](https://img.shields.io/badge/>>_LINKEDIN-alanbabychan-009926?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/alanbabychan/)
+[![](https://custom-icon-badges.demolab.com/badge/>>_LINKEDIN-alanbabychan-009926?style=for-the-badge&logo=linkedin-white&logoColor=ffffff&labelColor=000000)](https://www.linkedin.com/in/alanbabychan/)
 &nbsp;
 [![](https://img.shields.io/badge/>>_PORTFOLIO-alanbabychan.online-009926?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=000000)](https://www.alanbabychan.online/)
 
