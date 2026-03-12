@@ -1,25 +1,32 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,40:252526,80:007acc,100:1e1e1e&height=200&section=header&text=alan_babychan.tsx&fontSize=40&fontColor=9cdcfe&animation=fadeIn&fontAlignY=38&desc=Software+Development+Engineer&descAlignY=58&descSize=16&descColor=6a9955"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1208,100:0a0a0a&height=220&section=header&text=ALAN%20BABYCHAN&fontSize=54&fontColor=e8c96d&animation=fadeIn&fontAlignY=42&desc=Software%20Development%20Engineer%20%20·%20%20Dubai%2C%20UAE&descAlignY=62&descSize=16&descColor=8a7a4a&stroke=e8c96d&strokeWidth=1"/>
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&color=007acc&labelColor=1e1e1e&label=visitors"/>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&color=e8c96d&labelColor=0a0a0a&label=visitors"/>
+&nbsp;
+[![](https://img.shields.io/github/followers/alanbabychan?style=flat&color=e8c96d&labelColor=0a0a0a&label=followers&logo=github&logoColor=e8c96d)](https://github.com/alanbabychan?tab=followers)
+
 </div>
 
 <br/>
 
 <div align="center">
 
-<!-- FILE TABS -->
-```
- ┌─────────────────────┐  ┌──────────────┐  ┌───────────────┐  ┌──────────────┐
- │ 📄 alan.tsx  ●      │  │ 📄 skills.ts │  │ 📄 contact.ts │  │ 📄 README.md │
- └─────────────────────┘  └──────────────┘  └───────────────┘  └──────────────┘
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&duration=4000&pause=2000&color=E8C96D&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%E2%80%94+React+%7C+Next.js+%7C+TypeScript;Software+Engineer+%40+Covermatch+Technologies+FZCO;Building+for+the+web%2C+one+commit+at+a+time."/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1800&color=9CDCFE&center=true&vCenter=true&width=620&lines=const+alan+%3D+new+Developer();+🚀;alan.stack+%3D+%5B'React'%2C+'Next.js'%2C+'TypeScript'%5D;alan.isBuilding+%3D+true%3B+%2F%2F+always;alan.coffee+%3D+Infinity%3B+%2F%2F+no+choice"/>
+![](https://img.shields.io/badge/AWS-learning-e8c96d?style=flat-square&labelColor=0a0a0a&logo=amazonaws&logoColor=e8c96d)
+&nbsp;
+![](https://img.shields.io/badge/Docker-learning-e8c96d?style=flat-square&labelColor=0a0a0a&logo=docker&logoColor=e8c96d)
+&nbsp;
+![](https://img.shields.io/badge/Strapi-learning-e8c96d?style=flat-square&labelColor=0a0a0a&logo=strapi&logoColor=e8c96d)
+&nbsp;
+![](https://img.shields.io/badge/PUBG%20Mobile-🐔%20chicken%20dinner-e8c96d?style=flat-square&labelColor=0a0a0a)
 
 </div>
 
@@ -27,80 +34,32 @@
 
 ---
 
-## 📄 `alan.tsx`
-
-```tsx
-// ─────────────────────────────────────────────
-//  👤  DEVELOPER PROFILE
-//  📁  /home/alan/profile/alan.tsx
-// ─────────────────────────────────────────────
-
-const alan: Developer = {
-  name        : "Alan Babychan",
-  title       : "Software Development Engineer",
-  company     : "Covermatch Technologies FZCO",
-  location    : "Dubai, UAE 🇦🇪",
-  portfolio   : "https://www.alanbabychan.online",
-
-  currentlyLearning : ["AWS", "Docker", "Strapi"],
-
-  askMeAbout  : ["React", "Next.js", "TypeScript", "Node.js", "APIs"],
-
-  funFact     : "Off the clock? Dropping into Boot Camp",
-  weakness    : "PUBG Mobile 🐔 — one more game becomes six",
-  fuelSource  : "☕".repeat(Infinity),  // non-negotiable
-
-  motto       : "Ship it. Fix it. Ship it again.",
-};
-
-export default alan;
-```
-
 <br/>
 
----
-
-## 📄 `contact.ts`
-
-```ts
-// ─────────────────────────────────────────────
-//  🌐  CONNECT WITH ME
-//  📁  /home/alan/profile/contact.ts
-// ─────────────────────────────────────────────
-
-const contact = {
-  email     : "alenbabychan@gmail.com",
-  linkedin  : "linkedin.com/in/alanbabychan",
-  portfolio : "alanbabychan.online",
-  instagram : "@kiddo.x.__",
-  twitter   : "@alan_babychan",
-  facebook  : "kiddo.x23",
-  snapchat  : "kiddo.x23",
-} as const;
-```
+## ✦ Connect
 
 <div align="center">
 
 <a href="mailto:alenbabychan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
 <a href="https://www.linkedin.com/in/alanbabychan/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
 <a href="https://www.alanbabychan.online/">
-  <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Portfolio-e8c96d?style=for-the-badge&logo=vercel&logoColor=0a0a0a"/>
+</a>&nbsp;
 <a href="https://www.instagram.com/kiddo.x.__/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/kiddo.x23">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>&nbsp;
 <a href="https://x.com/alan_babychan">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Twitter-0a0a0a?style=for-the-badge&logo=x&logoColor=e8c96d"/>
+</a>&nbsp;
+<a href="https://www.facebook.com/kiddo.x23">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>&nbsp;
 <a href="https://www.snapchat.com/add/kiddo.x23">
-  <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
+<img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
 </a>
 
 </div>
@@ -109,39 +68,16 @@ const contact = {
 
 ---
 
-## 📄 `skills.ts`
+<br/>
 
-```ts
-// ─────────────────────────────────────────────
-//  ⚒️  TECH STACK
-//  📁  /home/alan/profile/skills.ts
-// ─────────────────────────────────────────────
-
-interface TechStack {
-  frontend  : string[];
-  backend   : string[];
-  database  : string[];
-  devops    : string[];
-  tools     : string[];
-}
-
-const skills: TechStack = {
-  frontend  : ["React", "Next.js", "TypeScript", "JavaScript", "TailwindCSS", "HTML5", "CSS3"],
-  backend   : ["Node.js", "PHP", "Python", "Java", "C"],
-  database  : ["MongoDB", "MySQL"],
-  devops    : ["AWS", "Docker", "Git", "GitHub", "GitLab", "Vercel"],
-  tools     : ["VS Code", "Strapi", "WordPress", "Wix"],
-};
-
-export { skills };
-```
+## ✦ Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&theme=dark"/>
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,python,php,java,c,mongodb,mysql&theme=dark"/>
-<br/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,vercel,vscode,wordpress,wix&theme=dark"/>
 
 </div>
@@ -150,29 +86,15 @@ export { skills };
 
 ---
 
-## 📄 `stats.json`
+<br/>
 
-```json
-// ─────────────────────────────────────────────
-//  📊  GITHUB STATS
-//  📁  /home/alan/profile/stats.json
-// ─────────────────────────────────────────────
-
-{
-  "username"        : "alanbabychan",
-  "commits"         : "way too many",
-  "linesOfCode"     : "enough to be dangerous",
-  "topLanguage"     : "TypeScript (allegedly)",
-  "favoriteCommand" : "git push --force",
-  "deployStrategy"  : "ship first, pray second"
-}
-```
+## ✦ GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alanbabychan&show_icons=true&theme=vscode-dark&count_private=true&include_all_commits=true&border_radius=6&border_color=007acc&icon_color=007acc&title_color=9cdcfe&bg_color=1e1e1e"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alanbabychan&show_icons=true&count_private=true&include_all_commits=true&border_radius=8&border_color=e8c96d&icon_color=e8c96d&title_color=e8c96d&text_color=a89a6a&bg_color=0a0a0a&hide_border=false"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbabychan&layout=compact&border_radius=6&border_color=007acc&title_color=9cdcfe&text_color=d4d4d4&bg_color=1e1e1e"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbabychan&layout=compact&border_radius=8&border_color=e8c96d&title_color=e8c96d&text_color=a89a6a&bg_color=0a0a0a"/>
 
 </div>
 
@@ -180,7 +102,7 @@ export { skills };
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alanbabychan&background=1e1e1e&border=007acc&stroke=252526&ring=007acc&fire=ff6e00&currStreakNum=9cdcfe&sideNums=d4d4d4&currStreakLabel=007acc&sideLabels=6a9955&dates=555555&border_radius=6"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alanbabychan&background=0a0a0a&border=e8c96d&stroke=1a1208&ring=e8c96d&fire=e8c96d&currStreakNum=e8c96d&sideNums=a89a6a&currStreakLabel=e8c96d&sideLabels=a89a6a&dates=554d2e&border_radius=8"/>
 
 </div>
 
@@ -188,18 +110,13 @@ export { skills };
 
 ---
 
-## 📄 `activity.log`
+<br/>
 
-```
-// ─────────────────────────────────────────────
-//  📈  CONTRIBUTION GRAPH
-//  📁  /home/alan/profile/activity.log
-// ─────────────────────────────────────────────
-```
+## ✦ Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alanbabychan&bg_color=1e1e1e&color=9cdcfe&line=007acc&point=ff6e00&area=true&area_color=007acc20&hide_border=false&border_color=007acc&title_color=9cdcfe&radius=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alanbabychan&bg_color=0a0a0a&color=e8c96d&line=e8c96d&point=ffffff&area=true&area_color=e8c96d18&hide_border=false&border_color=e8c96d&title_color=e8c96d&radius=8"/>
 
 </div>
 
@@ -207,14 +124,9 @@ export { skills };
 
 ---
 
-## 📄 `snake.gif`
+<br/>
 
-```
-// ─────────────────────────────────────────────
-//  🐍  CONTRIBUTION SNAKE
-//  📁  /home/alan/profile/snake.gif
-// ─────────────────────────────────────────────
-```
+## ✦ Contribution Snake
 
 <div align="center">
 
@@ -226,33 +138,22 @@ export { skills };
 
 ---
 
-## 📄 `support.ts`
+<br/>
 
-```ts
-// ─────────────────────────────────────────────
-//  ☕  SUPPORT
-//  📁  /home/alan/profile/support.ts
-// ─────────────────────────────────────────────
-
-/**
- * If my code helped you — consider buying me a coffee.
- * It directly funds late-night commits and PUBG sessions. 🐔
- */
-function support(): void {
-  window.open("https://www.buymeacoffee.com/alanbabychan");
-}
-
-support(); // go on, click it
-```
+## ✦ Support
 
 <div align="center">
 
+*Enjoyed my work? A coffee keeps the commits coming.*
+
+<br/>
+
 <a href="https://www.buymeacoffee.com/alanbabychan">
-  <img height="56" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3"/>
+<img height="54" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3"/>
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,40:252526,80:007acc,100:1e1e1e&height=140&section=footer&text=//+EOF&fontSize=20&fontColor=6a9955&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1208,100:0a0a0a&height=140&section=footer&text=✦&fontSize=28&fontColor=e8c96d&fontAlignY=65"/>
