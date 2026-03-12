@@ -1,16 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,65:003300,100:000000&height=230&section=header&text=ALAN%20BABYCHAN&fontSize=54&fontColor=00ff41&animation=twinkling&fontAlignY=40&desc=01000001%20%7C%20Software%20Development%20Engineer%20%7C%2001000010&descAlignY=62&descSize=13&descColor=39ff14&stroke=00ff41&strokeWidth=1"/>
+<div align="right">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&color=00ff41&labelColor=000000&label=OPERATIVES"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/alanbabychan?style=flat&color=00ff41&labelColor=000000&label=AGENTS&logo=github&logoColor=00ff41"/>
+</div>
 
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&color=00ff41&labelColor=000000&label=visitors"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/alanbabychan?style=flat&color=00ff41&labelColor=000000&label=followers&logo=github&logoColor=00ff41"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,65:003300,100:000000&height=230&section=header&text=ALAN%20BABYCHAN&fontSize=54&fontColor=00ff41&animation=twinkling&fontAlignY=40&desc=01000001%20%7C%20Software%20Development%20Engineer%20%7C%2001000010&descAlignY=62&descSize=13&descColor=39ff14&stroke=00ff41&strokeWidth=1"/>
 
 <br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&width=700&lines=%5B+OK+%5D+Identity+%3A+Alan+Babychan;%5B+OK+%5D+Role+%3A+Software+Development+Engineer;%5B+OK+%5D+Company+%3A+Covermatch+Technologies+FZCO;%5B+OK+%5D+Base+%3A+Dubai%2C+UAE+%F0%9F%87%A6%F0%9F%87%AA;%5BWARN%5D+Caffeine+%3A+CRITICAL+%E2%98%95+%E2%98%95+%E2%98%95;%5BWARN%5D+PUBG+Mobile+%3A+NEVER+RESOLVED+%F0%9F%90%94;%5B+OK+%5D+All+systems+nominal.+Shipping+anyway."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&width=750&lines=%5B+OK+%5D+Identity+%3A+Alan+Babychan;%5B+OK+%5D+Role+%3A+Software+Development+Engineer;%5B+OK+%5D+Company+%3A+Covermatch+Technologies+FZCO;%5B+OK+%5D+Base+%3A+Kochi%2C+Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3;%5B+OK+%5D+Achievement+%3A+YIP+5.0+District+Winner+%F0%9F%8F%86;%5B+OK+%5D+Founded+%3A+AI-based+Autism+Detection+Software;%5BWARN%5D+Caffeine+%3A+CRITICAL+%E2%98%95+%E2%98%95+%E2%98%95;%5BWARN%5D+PUBG+%26+PES+%3A+ACTIVE+THREATS+%F0%9F%8E%AE;%5B+OK+%5D+All+systems+nominal.+Shipping+anyway."/>
 
 </div>
 
@@ -20,15 +20,33 @@
 
 ![](https://img.shields.io/badge/◈_STATUS-ONLINE-00ff41?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/◈_ROLE-SDE-00ff41?style=flat-square&labelColor=000000)
-&nbsp;
-![](https://img.shields.io/badge/◈_BASE-DUBAI_🇦🇪-00cc33?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/◈_BASE-KOCHI_KL_🇮🇳-00cc33?style=flat-square&labelColor=000000)
 &nbsp;
 ![](https://img.shields.io/badge/◈_AWS-GRINDING-39ff14?style=flat-square&labelColor=000000&logo=amazonaws&logoColor=00ff41)
 &nbsp;
 ![](https://img.shields.io/badge/◈_DOCKER-GRINDING-39ff14?style=flat-square&labelColor=000000&logo=docker&logoColor=00ff41)
 &nbsp;
 ![](https://img.shields.io/badge/◈_PUBG-🐔_ACTIVE-006600?style=flat-square&labelColor=000000)
+&nbsp;
+![](https://img.shields.io/badge/◈_PES-⚽_ACTIVE-006600?style=flat-square&labelColor=000000)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+
+![](https://img.shields.io/badge/🏆_YIP_5.0-DISTRICT_WINNER-00ff41?style=for-the-badge&labelColor=000000)
+&nbsp;
+![](https://img.shields.io/badge/🧠_AI_PROJECT-AUTISM_DETECTION_FOUNDER-00cc33?style=for-the-badge&labelColor=000000)
+&nbsp;
+![](https://img.shields.io/badge/💼_COVERMATCH-SOFTWARE_ENGINEER-39ff14?style=for-the-badge&labelColor=000000)
 
 </div>
 
