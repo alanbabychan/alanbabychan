@@ -1,7 +1,7 @@
 <div align="right">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&color=009926&labelColor=000000&label=OPERATIVES&style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/alanbabychan?style=flat-square&color=009926&labelColor=009926&label=AGENTS&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/github/followers/alanbabychan?style=flat-square&color=009926&labelColor=000000&label=AGENTS&logo=github&logoColor=009926"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001400,65:002800,100:000000&height=320&section=header&text=ALAN%20BABYCHAN&fontSize=72&fontColor=009926&animation=twinkling&fontAlignY=42&desc=◈%20%20Software%20Development%20Engineer%20%20◈%20%20Full%20Stack%20Developer%20%20◈&descAlignY=64&descSize=18&descColor=009926&stroke=009926&strokeWidth=2"/>
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=3000&pause=1500&color=009926&center=true&vCenter=true&width=800&lines=%24+sudo+boot+--profile+alan_babychan.exe;%5BSYS%5D+kernel+loaded+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+%E2%9C%93;%5BAUTH%5D+verifying+credentials...+PASSED;%5BAUTH%5D+root+access+granted+%3E%3E+welcome%2C+user.;%5BGET%5D+++profile.name++++%3D+%22ALAN+BABYCHAN%22;%5BGET%5D+++profile.handle++%3D+%22%40alanbabychan%22;%5BGET%5D+++profile.role++++%3D+%22SDE+%40+Covermatch+Technologies+FZCO%22;%5BDECRYPT%5D+achievement_0x01+%3D+YIP+5.0+District+Winner+%F0%9F%8F%86;%5BDECRYPT%5D+achievement_0x02+%3D+Founded+AI+Autism+Detection+Software;%5BPING%5D+++uptime+99.9%25+%7C+deployment_status+%3A+LIVE+%E2%9C%93;%5BSTAT%5D+++tech_skills+%3A+20%2B+%7C+projects_shipped+%3A+10%2B;%5BSTAT%5D+++repositories+%3A+15%2B+%7C+commits_pushed+%3A+750%2B;%5BSYS%5D+++all+modules+online.+standing+by.+_"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=2000&pause=1000&color=009926&center=true&vCenter=true&width=800&lines=%24+sudo+boot+--profile+alan_babychan.exe;%5BSYS%5D+kernel+loaded+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+%E2%9C%93;%5BAUTH%5D+verifying+credentials...+PASSED;%5BAUTH%5D+root+access+granted+%3E%3E+welcome%2C+user.;%5BGET%5D+++profile.name++++%3D+%22ALAN+BABYCHAN%22;%5BGET%5D+++profile.handle++%3D+%22%40alanbabychan%22;%5BGET%5D+++profile.role++++%3D+%22SDE+%40+Covermatch+Technologies+FZCO%22;%5BDECRYPT%5D+achievement_0x01+%3D+YIP+5.0+District+Winner+%F0%9F%8F%86;%5BDECRYPT%5D+achievement_0x02+%3D+Founded+AI+Autism+Detection+Software;%5BPING%5D+++uptime+99.9%25+%7C+deployment_status+%3A+LIVE+%E2%9C%93;%5BSTAT%5D+++tech_skills+%3A+20%2B+%7C+projects_shipped+%3A+10%2B;%5BSTAT%5D+++repositories+%3A+15%2B+%7C+commits_pushed+%3A+750%2B;%5BSYS%5D+++all+modules+online.+standing+by.+_"/>
 
 </div>
 
