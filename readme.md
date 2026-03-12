@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=15&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&width=760&lines=INTERCEPTED+TRANSMISSION+%3A%3A+DARK+WEB+NODE+0x4AB2;DECRYPTING...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+DONE;FILE+DUMP+%3A%3A+SUBJECT+IDENTIFIED+AS+ALAN+BABYCHAN;LOCATION+%3A%3A+DUBAI+NODE+%F0%9F%87%A6%F0%9F%87%AA+%7C+STATUS+%3A%3A+ACTIVE+%26+CAFFEINATED;WARNING+%3A%3A+SUBJECT+IS+ARMED+WITH+REACT+%26+NEXT.JS;APPROACH+WITH+CAUTION+%3A%3A+SHIPS+TO+PROD+WITHOUT+FEAR"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=15&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=760&lines=LOADING+CHARACTER+DATA...;SAVE+FILE+FOUND+%3A%3A+alan_babychan.sav;CLASS+%3A%3A+Full+Stack+Engineer+%5BUNLOCKED%5D;GUILD+%3A%3A+Covermatch+Technologies+FZCO;ACTIVE+QUEST+%3A%3A+Tame+the+AWS+Beast+%5BIN+PROGRESS%5D;WARNING+%3A%3A+Player+has+not+slept+in+48h;WARNING+%3A%3A+Coffee+bar+at+3%25+%E2%98%95;ENTERING+GAME+WORLD...+GOOD+LUCK%2C+TRAVELLER."/>
 
 </div>
 
@@ -14,15 +14,15 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/FILE-LEAKED-00ff41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/CLASS-Full_Stack_Engineer-00ff41?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/SUBJECT-ACTIVE-00ff41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/LEVEL-over_9000-00ff41?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/THREAT_LEVEL-FULL_STACK-00ff41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/SERVER-Dubai_UAE_🇦🇪-00cc33?style=flat-square&labelColor=000000)
 &nbsp;
-[![](https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&style=flat-square&color=00ff41&labelColor=000000&label=WITNESSES)](https://github.com/alanbabychan)
+[![](https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&style=flat-square&color=00ff41&labelColor=000000&label=PLAYERS+MET)](https://github.com/alanbabychan)
 &nbsp;
-[![](https://img.shields.io/github/followers/alanbabychan?style=flat-square&color=00ff41&labelColor=000000&label=INFORMANTS&logo=github&logoColor=00ff41)](https://github.com/alanbabychan?tab=followers)
+[![](https://img.shields.io/github/followers/alanbabychan?style=flat-square&color=00ff41&labelColor=000000&label=PARTY+MEMBERS&logo=github&logoColor=00ff41)](https://github.com/alanbabychan?tab=followers)
 
 </div>
 
@@ -33,49 +33,57 @@
 <br/>
 
 ```
-//  F I L E  D U M P  ──  N O D E  0 x 4 A B 2  ──  C L A S S I F I E D
+root@hackbox:~$ cat character_sheet.txt
 ```
 
 <br/>
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   ██╗    ██╗ █████╗ ███╗  ██╗████████╗███████╗██████╗                      │
-│   ██║    ██║██╔══██╗████╗ ██║╚══██╔══╝██╔════╝██╔══██╗                     │
-│   ██║ █╗ ██║███████║██╔██╗██║   ██║   █████╗  ██║  ██║                     │
-│   ██║███╗██║██╔══██║██║╚████║   ██║   ██╔══╝  ██║  ██║                     │
-│   ╚███╔███╔╝██║  ██║██║ ╚███║   ██║   ███████╗██████╔╝                     │
-│    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚══╝   ╚═╝   ╚══════╝╚═════╝                     │
-│                                                                             │
-│                                                                             │
-│   ┌───────────────────────────────────────────────────────────────────┐    │
-│   │  SUBJECT    ──  Alan Babychan                                     │    │
-│   │  KNOWN AS   ──  @alanbabychan                                     │    │
-│   │  OCCUPATION ──  Full Stack Engineer                               │    │
-│   │  EMPLOYER   ──  Covermatch Technologies FZCO         ● ACTIVE     │    │
-│   │  LAST SEEN  ──  Dubai, UAE 🇦🇪 pushing commits at 3AM             │    │
-│   │  ARMED WITH ──  React · Next.js · TypeScript · Node · AWS         │    │
-│   │  DANGEROUS  ──  Ships to prod. Doesn't flinch.                   │    │
-│   └───────────────────────────────────────────────────────────────────┘    │
-│                                                                             │
-│   NOTES FROM FIELD AGENT:                                                  │
-│   ┌───────────────────────────────────────────────────────────────────┐    │
-│   │                                                                   │    │
-│   │  Subject was spotted learning AWS & Docker. Claims it's "easy."  │    │
-│   │  Suspect is lying. He's been on the same tutorial for 3 weeks.   │    │
-│   │                                                                   │    │
-│   │  Known to disappear for hours into PUBG Mobile. Returns with     │    │
-│   │  chicken dinner and renewed coding energy. Threat level: high.   │    │
-│   │                                                                   │    │
-│   │  Primary fuel source: coffee. Cut the supply, he stops working.  │    │
-│   │  Secondary fuel source: Stack Overflow. Do not disconnect.       │    │
-│   │                                                                   │    │
-│   │  Last known commit message: "fix stuff"    ← still in prod.      │    │
-│   │  Last known PR title: "misc changes"       ← 1,400 lines added.  │    │
-│   │                                                                   │    │
-│   └───────────────────────────────────────────────────────────────────┘    │
-└─────────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════════╗
+║          ⚔  C H A R A C T E R   S H E E T  ⚔   v2025.DUBAI               ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  NAME    ──  Alan Babychan              CLASS  ──  Full Stack Engineer       ║
+║  TITLE   ──  The One Who Ships          RACE   ──  Sleep-deprived Human      ║
+║  GUILD   ──  Covermatch Technologies    RANK   ──  Senior Operator           ║
+║  REGION  ──  Dubai, UAE  🇦🇪             ALIGN  ──  Chaotic Good (mostly)     ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  ┌─ BASE STATS ──────────────────────────────────────────────────────────┐  ║
+║  │                                                                       │  ║
+║  │  ⚡ FRONTEND    ████████████████████  99   "Pixel-perfect devastation" │  ║
+║  │  🔧 BACKEND     ███████████████████░  88   "APIs fear him"            │  ║
+║  │  🗄️ DATABASE    ██████████████████░░  85   "Speaks fluent MongoDB"    │  ║
+║  │  ☁️ CLOUD/OPS   ██████████░░░░░░░░░░  50   "Still learning the spells" │  ║
+║  │  🧠 DEBUGGING   ████████████████████  99   "Sees the bug in the dark" │  ║
+║  │  😴 SLEEP        ░░░░░░░░░░░░░░░░░░░   3   "CRITICAL — needs healing" │  ║
+║  │  ☕ CAFFEINE     ████████████████████  ∞   "Primary power source"     │  ║
+║  │                                                                       │  ║
+║  └───────────────────────────────────────────────────────────────────────┘  ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  ┌─ SPECIAL ABILITIES ────────────────────────────────────────────────────┐ ║
+║  │                                                                        │ ║
+║  │  🔥 SHIP IT     — Deploys to prod without blinking. No tests needed.  │ ║
+║  │  🎯 GOOGLE-FU   — Finds the Stack Overflow answer on page 2.          │ ║
+║  │  🌀 GIT FORCE   — `git push --force`. Uses it. Regrets nothing.       │ ║
+║  │  🐔 CLUTCH MODE — Activates at 3AM. Somehow fixes everything.         │ ║
+║  │  📋 COPY-PASTE  — Legendary. 1000ms cast time. Instant results.       │ ║
+║  │                                                                        │ ║
+║  └────────────────────────────────────────────────────────────────────────┘ ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  ┌─ WEAKNESSES ───────────────────────────────────────────────────────────┐ ║
+║  │  ✗  PUBG Mobile  ──  loses 4h instantly upon launch                   │ ║
+║  │  ✗  Coffee shop WiFi  ──  productivity buff but costs money            │ ║
+║  │  ✗  "One more feature"  ──  adds 3h to any task estimate               │ ║
+║  │  ✗  CSS centering  ──  (we don't talk about this)                      │ ║
+║  └────────────────────────────────────────────────────────────────────────┘ ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
@@ -85,21 +93,92 @@
 <br/>
 
 ```
-// KNOWN COMMUNICATION CHANNELS ── INTERCEPT OR CONTACT DIRECTLY
+root@hackbox:~$ cat quest_log.txt
+```
+
+<br/>
+
+```
+  ┌──────────────────────────────────────────────────────────────────────────┐
+  │  📜  A C T I V E   Q U E S T S                                          │
+  ├──────────────────────────────────────────────────────────────────────────┤
+  │                                                                          │
+  │  [IN PROGRESS]  ──  Tame the AWS Beast           reward: cloud certs    │
+  │  [IN PROGRESS]  ──  Docker: Run it Locally        reward: sanity         │
+  │  [IN PROGRESS]  ──  Strapi: Actually Read the Docs  reward: unknown      │
+  │  [REPEATING]    ──  Survive Sprint Review          reward: weekend       │
+  │  [REPEATING]    ──  Ship feature before deadline   reward: prod access   │
+  │  [DAILY]        ──  Find bug in someone else's code  reward: smug        │
+  │  [FAILED]       ──  Write documentation            reward: N/A           │
+  │  [FAILED]       ──  Sleep before midnight           reward: health       │
+  │                                                                          │
+  └──────────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
+<br/>
+
+```
+root@hackbox:~$ cat inventory.txt
+```
+
+<br/>
+
+**`[ WEAPONS — EQUIPPED ]`**
+
+![React](https://img.shields.io/badge/⚔_React-000?style=flat-square&logo=react&logoColor=00ff41)
+![Next.js](https://img.shields.io/badge/⚔_Next.js-000?style=flat-square&logo=nextdotjs&logoColor=00ff41)
+![TypeScript](https://img.shields.io/badge/⚔_TypeScript-000?style=flat-square&logo=typescript&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/⚔_JavaScript-000?style=flat-square&logo=javascript&logoColor=00ff41)
+![TailwindCSS](https://img.shields.io/badge/⚔_Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=00ff41)
+![HTML5](https://img.shields.io/badge/⚔_HTML5-000?style=flat-square&logo=html5&logoColor=00ff41)
+![CSS3](https://img.shields.io/badge/⚔_CSS3-000?style=flat-square&logo=css3&logoColor=00ff41)
+
+**`[ ARMOR — BACKEND LAYER ]`**
+
+![Node.js](https://img.shields.io/badge/🛡_Node.js-000?style=flat-square&logo=nodedotjs&logoColor=00ff41)
+![PHP](https://img.shields.io/badge/🛡_PHP-000?style=flat-square&logo=php&logoColor=00ff41)
+![Python](https://img.shields.io/badge/🛡_Python-000?style=flat-square&logo=python&logoColor=00ff41)
+![Java](https://img.shields.io/badge/🛡_Java-000?style=flat-square&logo=openjdk&logoColor=00ff41)
+![MongoDB](https://img.shields.io/badge/🛡_MongoDB-000?style=flat-square&logo=mongodb&logoColor=00ff41)
+![MySQL](https://img.shields.io/badge/🛡_MySQL-000?style=flat-square&logo=mysql&logoColor=00ff41)
+
+**`[ MOUNTS — CLOUD INFRASTRUCTURE ]`**
+
+![AWS](https://img.shields.io/badge/🐉_AWS-000?style=flat-square&logo=amazonaws&logoColor=00ff41)
+![Docker](https://img.shields.io/badge/🐉_Docker-000?style=flat-square&logo=docker&logoColor=00ff41)
+![Vercel](https://img.shields.io/badge/🐉_Vercel-000?style=flat-square&logo=vercel&logoColor=00ff41)
+![Git](https://img.shields.io/badge/🐉_Git-000?style=flat-square&logo=git&logoColor=00ff41)
+![GitHub](https://img.shields.io/badge/🐉_GitHub-000?style=flat-square&logo=github&logoColor=00ff41)
+![GitLab](https://img.shields.io/badge/🐉_GitLab-000?style=flat-square&logo=gitlab&logoColor=00ff41)
+![Strapi](https://img.shields.io/badge/🐉_Strapi-000?style=flat-square&logo=strapi&logoColor=00ff41)
+![WordPress](https://img.shields.io/badge/🐉_WordPress-000?style=flat-square&logo=wordpress&logoColor=00ff41)
+![VSCode](https://img.shields.io/badge/🐉_VS_Code-000?style=flat-square&logo=visualstudiocode&logoColor=00ff41)
+
+<br/>
+
+---
+
+<br/>
+
+```
+root@hackbox:~$ cat guild_contacts.txt
 ```
 
 <br/>
 
 <div align="center">
 
-[![](https://img.shields.io/badge/CHANNEL_01-alenbabychan@gmail.com-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=000000)](mailto:alenbabychan@gmail.com)
-[![](https://img.shields.io/badge/CHANNEL_02-LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000)](https://www.linkedin.com/in/alanbabychan/)
-[![](https://img.shields.io/badge/CHANNEL_03-alanbabychan.online-39ff14?style=for-the-badge&logo=vercel&logoColor=39ff14&labelColor=000000)](https://www.alanbabychan.online/)
-
-[![](https://img.shields.io/badge/CHANNEL_04-Instagram-00cc33?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=000000)](https://www.instagram.com/kiddo.x.__/)
-[![](https://img.shields.io/badge/CHANNEL_05-Twitter-00cc33?style=for-the-badge&logo=x&logoColor=00ff41&labelColor=000000)](https://x.com/alan_babychan)
-[![](https://img.shields.io/badge/CHANNEL_06-Facebook-00cc33?style=for-the-badge&logo=facebook&logoColor=00ff41&labelColor=000000)](https://www.facebook.com/kiddo.x23)
-[![](https://img.shields.io/badge/CHANNEL_07-Snapchat-009922?style=for-the-badge&logo=snapchat&logoColor=00ff41&labelColor=000000)](https://www.snapchat.com/add/kiddo.x23)
+[![](https://img.shields.io/badge/📬_MAIL-alenbabychan@gmail.com-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=000000)](mailto:alenbabychan@gmail.com)
+[![](https://img.shields.io/badge/🏰_GUILD_HALL-LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000)](https://www.linkedin.com/in/alanbabychan/)
+[![](https://img.shields.io/badge/🗺️_MAP-alanbabychan.online-39ff14?style=for-the-badge&logo=vercel&logoColor=39ff14&labelColor=000000)](https://www.alanbabychan.online/)
+[![](https://img.shields.io/badge/📸_SCROLL-Instagram-00cc33?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=000000)](https://www.instagram.com/kiddo.x.__/)
+[![](https://img.shields.io/badge/🐦_RAVEN-Twitter-00cc33?style=for-the-badge&logo=x&logoColor=00ff41&labelColor=000000)](https://x.com/alan_babychan)
+[![](https://img.shields.io/badge/🗣️_TAVERN-Facebook-00cc33?style=for-the-badge&logo=facebook&logoColor=00ff41&labelColor=000000)](https://www.facebook.com/kiddo.x23)
+[![](https://img.shields.io/badge/👻_GHOST_REALM-Snapchat-009922?style=for-the-badge&logo=snapchat&logoColor=00ff41&labelColor=000000)](https://www.snapchat.com/add/kiddo.x23)
 
 </div>
 
@@ -110,59 +189,7 @@
 <br/>
 
 ```
-// WEAPONS MANIFEST ── RECOVERED FROM SUBJECT'S LOCAL MACHINE
-```
-
-<br/>
-
-```
-  ┌──────────────────────────────────────────────────────────────────────┐
-  │  WARNING: Some of these have caused production incidents.            │
-  │  Subject shows no remorse.                                           │
-  └──────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-**`[ PRIMARY WEAPONS ]`**
-
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=00ff41)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=00ff41)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=00ff41)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=00ff41)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=00ff41)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=00ff41)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=00ff41)
-
-**`[ SECONDARY WEAPONS ]`**
-
-![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=00ff41)
-![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=00ff41)
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00ff41)
-![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=00ff41)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=00ff41)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=00ff41)
-
-**`[ INFRASTRUCTURE ]`**
-
-![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonaws&logoColor=00ff41)
-![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=00ff41)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=00ff41)
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=00ff41)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=00ff41)
-![GitLab](https://img.shields.io/badge/GitLab-000?style=flat-square&logo=gitlab&logoColor=00ff41)
-![Strapi](https://img.shields.io/badge/Strapi-000?style=flat-square&logo=strapi&logoColor=00ff41)
-![WordPress](https://img.shields.io/badge/WordPress-000?style=flat-square&logo=wordpress&logoColor=00ff41)
-![VSCode](https://img.shields.io/badge/VS_Code-000?style=flat-square&logo=visualstudiocode&logoColor=00ff41)
-
-<br/>
-
----
-
-<br/>
-
-```
-// EVIDENCE ── PULLED FROM github.com/alanbabychan
+root@hackbox:~$ ./show_battle_stats.sh
 ```
 
 <br/>
@@ -190,7 +217,7 @@
 <br/>
 
 ```
-// SURVEILLANCE FEED ── LAST 90 DAYS OF ACTIVITY
+root@hackbox:~$ cat raid_history.log
 ```
 
 <div align="center">
@@ -206,7 +233,7 @@
 <br/>
 
 ```
-// COMMENDATIONS ── YES THESE ARE REAL
+root@hackbox:~$ cat achievements.log
 ```
 
 <div align="center">
@@ -222,7 +249,7 @@
 <br/>
 
 ```
-// PATTERN OF LIFE ── CONTRIBUTION TRAIL
+root@hackbox:~$ ./snake --watch  # The snake also has no sleep schedule
 ```
 
 <div align="center">
@@ -238,7 +265,7 @@
 <br/>
 
 ```
-// FINAL TRANSMISSION ── FROM THE SUBJECT HIMSELF
+root@hackbox:~$ cat inn.txt  # support the traveller
 ```
 
 <div align="center">
@@ -246,11 +273,11 @@
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║   If you've read this far —  you're either a recruiter, a developer,        ║
-║   or you have too much free time. All three are welcome here.               ║
+║   Every great quest needs supplies.                                          ║
+║   Mine needs coffee. ☕                                                      ║
 ║                                                                              ║
-║   If my work helped you in any way, a coffee goes a long way. ☕            ║
-║   If it didn't help — open an issue. I dare you.                            ║
+║   If my code helped your quest — toss a coin to your developer.             ║
+║   (Geralt reference. Yes, I'm that kind of nerd.)                           ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -261,24 +288,25 @@
 
 <br/><br/>
 
-![](https://img.shields.io/badge/last_commit_msg-"fix_stuff"-00ff41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/XP_GAINED-1337-00ff41?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/lines_changed-"misc_cleanup"_=_+1400-39ff14?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/RESPAWNS-∞_(caffeine_powered)-39ff14?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/deploy_strategy-pray_%26_push-00cc33?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/CHICKEN_DINNERS-uncountable_🐔-00cc33?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/current_status-alive_(probably)-006600?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/DOCUMENTATION-FAILED_QUEST-006600?style=flat-square&labelColor=000000)
 
 </div>
 
 <br/>
 
 ```
-// END OF FILE DUMP
-// THIS DOCUMENT WILL SELF DESTRUCT IN:  3... 2... 1...
-// just kidding. star the repo though.
+root@hackbox:~$ exit
+// saving game...
+// quest progress: 73% complete  (the other 27% is in TODO comments)
+// logging off.  may your builds be green and your PRs approved. ⚔️
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0d0021,50:1a0040,75:0d0021,100:000000&height=160&section=footer&text=///+FILE+CLOSED+///&fontSize=22&fontColor=c084fc&animation=twinkling&fontAlignY=50&desc=01000111+01001111+01001111+01000100+01000010+01011001+01000101&descSize=12&descAlignY=75&descColor=00ff41"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0d0021,50:1a0040,75:0d0021,100:000000&height=160&section=footer&text=///+GAME+SAVED+///&fontSize=22&fontColor=c084fc&animation=twinkling&fontAlignY=50&desc=01000111+01001111+01001111+01000100+01000010+01011001+01000101&descSize=12&descAlignY=75&descColor=00ff41"/>
 </div>
