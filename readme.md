@@ -6,17 +6,15 @@
 <div align="center">
 
 <h1>
-Hey There! 
+Hey There!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 I'm <span style="color:#FF6E00;">ALAN BABYCHAN</span>
 </h1>
 
-<!-- ROLE ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&duration=4000&pause=2000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Full+Stack+Developer;React+%7C+AWS+Developer"/>
 
 <br/>
 
-<!-- CURRENT ROLE -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=18&duration=4000&pause=2000&color=FF6E00&center=true&vCenter=true&width=700&lines=Software+Engineer+at+Covermatch+Technologies+FZCO"/>
 
 </div>
@@ -74,9 +72,13 @@ I'm <span style="color:#FF6E00;">ALAN BABYCHAN</span>
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,php,docker" />
+
 <br/>
+
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mongodb,c,java,nextjs,mysql" />
+
 <br/>
+
 <img src="https://skillicons.dev/icons?i=aws,gitlab,vercel,wordpress,wix" />
 
 </div>
@@ -90,6 +92,16 @@ I'm <span style="color:#FF6E00;">ALAN BABYCHAN</span>
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=alanbabychan&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbabychan&layout=compact&theme=radical"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alanbabychan&theme=react-dark&hide_border=true"/>
 
 </div>
 
