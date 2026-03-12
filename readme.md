@@ -3,29 +3,10 @@
 <div align="center">
 
 <h1 align="center">
-  Hey There! 
-  <span class="wave">👋</span> 
-  I'm <b>ALAN BABYCHAN</b>
+Hey There! 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> 
+I'm <b>ALAN BABYCHAN</b>
 </h1>
-
-<style>
-.wave {
-  animation: wave-animation 2s infinite;
-  display: inline-block;
-  transform-origin: 70% 70%;
-}
-
-@keyframes wave-animation {
-  0% { transform: rotate(0deg); }
-  15% { transform: rotate(14deg); }
-  30% { transform: rotate(-8deg); }
-  40% { transform: rotate(14deg); }
-  50% { transform: rotate(-4deg); }
-  60% { transform: rotate(10deg); }
-  70% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-</style>
 
 <!-- Role Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&duration=4000&pause=2000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Full+Stack+Developer" />
