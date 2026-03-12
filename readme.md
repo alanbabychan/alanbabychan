@@ -64,7 +64,7 @@
 
 [![](https://img.shields.io/badge/>>_GMAIL-alenbabychan@gmail.com-009926?style=for-the-badge&logo=gmail&logoColor=009926&labelColor=000000)](mailto:alenbabychan@gmail.com)
 &nbsp;
-[![](https://img.shields.io/badge/>>_LINKEDIN-alanbabychan-009926?style=for-the-badge&logo=linkedin&logoColor=009926&labelColor=000000)](https://www.linkedin.com/in/alanbabychan/)
+[![](https://img.shields.io/badge/>>_LINKEDIN-alanbabychan-009926?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000)](https://www.linkedin.com/in/alanbabychan/)
 &nbsp;
 [![](https://img.shields.io/badge/>>_PORTFOLIO-alanbabychan.online-009926?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=000000)](https://www.alanbabychan.online/)
 
@@ -110,7 +110,7 @@
 &nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff)
 &nbsp;
-![CSS3](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=ffffff)
+![CSS3](https://custom-icon-badges.demolab.com/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=ffffff)
 
 <br/>
 
