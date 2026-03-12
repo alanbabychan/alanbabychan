@@ -62,21 +62,21 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/>>_GMAIL-alenbabychan@gmail.com-009926?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:alenbabychan@gmail.com)
+[![](https://img.shields.io/badge/>>_GMAIL-alenbabychan@gmail.com-009926?style=for-the-badge&logo=gmail&logoColor=009926&labelColor=000000)](mailto:alenbabychan@gmail.com)
 &nbsp;
-[![](https://img.shields.io/badge/>>_LINKEDIN-alanbabychan-009926?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://www.linkedin.com/in/alanbabychan/)
+[![](https://img.shields.io/badge/>>_LINKEDIN-alanbabychan-009926?style=for-the-badge&logo=linkedin&logoColor=009926&labelColor=000000)](https://www.linkedin.com/in/alanbabychan/)
 &nbsp;
-[![](https://img.shields.io/badge/>>_PORTFOLIO-alanbabychan.online-009926?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000)](https://www.alanbabychan.online/)
+[![](https://img.shields.io/badge/>>_PORTFOLIO-alanbabychan.online-009926?style=for-the-badge&logo=vercel&logoColor=009926&labelColor=000000)](https://www.alanbabychan.online/)
 
 <br/>
 
-[![](https://img.shields.io/badge/>>_INSTAGRAM-@kiddo.x.__-009926?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=000000)](https://www.instagram.com/kiddo.x.__/)
+[![](https://img.shields.io/badge/>>_INSTAGRAM-@kiddo.x.__-009926?style=for-the-badge&logo=instagram&logoColor=009926&labelColor=000000)](https://www.instagram.com/kiddo.x.__/)
 &nbsp;
-[![](https://img.shields.io/badge/>>_TWITTER-@alan__babychan-009926?style=for-the-badge&logo=x&logoColor=000000&labelColor=000000)](https://x.com/alan_babychan)
+[![](https://img.shields.io/badge/>>_TWITTER-@alan__babychan-009926?style=for-the-badge&logo=x&logoColor=009926&labelColor=000000)](https://x.com/alan_babychan)
 &nbsp;
-[![](https://img.shields.io/badge/>>_FACEBOOK-kiddo.x23-009926?style=for-the-badge&logo=facebook&logoColor=000000&labelColor=000000)](https://www.facebook.com/kiddo.x23)
+[![](https://img.shields.io/badge/>>_FACEBOOK-kiddo.x23-009926?style=for-the-badge&logo=facebook&logoColor=009926&labelColor=000000)](https://www.facebook.com/kiddo.x23)
 &nbsp;
-[![](https://img.shields.io/badge/>>_SNAPCHAT-kiddo.x23-009926?style=for-the-badge&logo=snapchat&logoColor=000000&labelColor=000000)](https://www.snapchat.com/add/kiddo.x23)
+[![](https://img.shields.io/badge/>>_SNAPCHAT-kiddo.x23-009926?style=for-the-badge&logo=snapchat&logoColor=009926&labelColor=000000)](https://www.snapchat.com/add/kiddo.x23)
 
 </div>
 
@@ -110,7 +110,7 @@
 &nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=009926)
 &nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=009926)
+![CSS3](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=009926)
 
 <br/>
 
