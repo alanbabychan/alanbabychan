@@ -5,18 +5,24 @@
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=15&duration=1800&pause=400&color=00FF41&center=true&vCenter=true&width=760&lines=WHO+AM+I%3F+Nobody.+Definitely+nobody.;Just+a+dev+who+Googles+for+a+living.;%5BWARN%5D+Full+Stack+Engineer+detected+in+Dubai+%F0%9F%87%A6%F0%9F%87%AA;%5BNOTE%5D+Yes%2C+I+also+play+PUBG+instead+of+sleeping.;%5BALERT%5D+Coffee+supply+running+critically+low+%E2%98%95;%5BOK%5D+System+stable.+Shipping+anyway."/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=15&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=760&lines=INTERCEPTED+TRANSMISSION+%3A%3A+DARK+WEB+NODE+0x4AB2;DECRYPTING...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+DONE;FILE+DUMP+%3A%3A+SUBJECT+IDENTIFIED+AS+ALAN+BABYCHAN;LOCATION+%3A%3A+DUBAI+NODE+%F0%9F%87%A6%F0%9F%87%AA+%7C+STATUS+%3A%3A+ACTIVE+%26+CAFFEINATED;WARNING+%3A%3A+SUBJECT+IS+ARMED+WITH+REACT+%26+NEXT.JS;APPROACH+WITH+CAUTION+%3A%3A+SHIPS+TO+PROD+WITHOUT+FEAR"/>
+
 </div>
 
 <br/>
 
 <div align="center">
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&style=flat-square&color=00ff41&labelColor=000000&label=PEOPLE+WHO+FOUND+ME)](https://github.com/alanbabychan)
+![](https://img.shields.io/badge/FILE-LEAKED-00ff41?style=flat-square&labelColor=000000)
 &nbsp;
-[![](https://img.shields.io/github/followers/alanbabychan?style=flat-square&color=00ff41&labelColor=000000&label=PEOPLE+WHO+STAYED&logo=github&logoColor=00ff41)](https://github.com/alanbabychan?tab=followers)
+![](https://img.shields.io/badge/SUBJECT-ACTIVE-00ff41?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/SLEEP_SCHEDULE-what's_that%3F-00ff41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/THREAT_LEVEL-FULL_STACK-00ff41?style=flat-square&labelColor=000000)
+&nbsp;
+[![](https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&style=flat-square&color=00ff41&labelColor=000000&label=WITNESSES)](https://github.com/alanbabychan)
+&nbsp;
+[![](https://img.shields.io/github/followers/alanbabychan?style=flat-square&color=00ff41&labelColor=000000&label=INFORMANTS&logo=github&logoColor=00ff41)](https://github.com/alanbabychan?tab=followers)
 
 </div>
 
@@ -27,28 +33,49 @@
 <br/>
 
 ```
-root@hackbox:~$ whoami --honest
+//  F I L E  D U M P  ──  N O D E  0 x 4 A B 2  ──  C L A S S I F I E D
 ```
 
+<br/>
+
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   Hi. I'm Alan.                                                              ║
-║                                                                              ║
-║   I build things on the internet for a living.                               ║
-║   Sometimes they work. Sometimes they don't.                                 ║
-║   I push to prod either way.                                                 ║
-║                                                                              ║
-║   By day  →  Software Engineer @ Covermatch Technologies FZCO, Dubai 🇦🇪    ║
-║   By night →  Chasing chicken dinners in PUBG Mobile 🐔                     ║
-║   Always   →  Caffeinated beyond medical advice ☕                           ║
-║                                                                              ║
-║   Currently "learning" AWS & Docker (translation: watching tutorials        ║
-║   at 1.5x speed and pretending I understood everything).                     ║
-║                                                                              ║
-║   My code is clean. My commit messages are not.                              ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│   ██╗    ██╗ █████╗ ███╗  ██╗████████╗███████╗██████╗                      │
+│   ██║    ██║██╔══██╗████╗ ██║╚══██╔══╝██╔════╝██╔══██╗                     │
+│   ██║ █╗ ██║███████║██╔██╗██║   ██║   █████╗  ██║  ██║                     │
+│   ██║███╗██║██╔══██║██║╚████║   ██║   ██╔══╝  ██║  ██║                     │
+│   ╚███╔███╔╝██║  ██║██║ ╚███║   ██║   ███████╗██████╔╝                     │
+│    ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚══╝   ╚═╝   ╚══════╝╚═════╝                     │
+│                                                                             │
+│                                                                             │
+│   ┌───────────────────────────────────────────────────────────────────┐    │
+│   │  SUBJECT    ──  Alan Babychan                                     │    │
+│   │  KNOWN AS   ──  @alanbabychan                                     │    │
+│   │  OCCUPATION ──  Full Stack Engineer                               │    │
+│   │  EMPLOYER   ──  Covermatch Technologies FZCO         ● ACTIVE     │    │
+│   │  LAST SEEN  ──  Dubai, UAE 🇦🇪 pushing commits at 3AM             │    │
+│   │  ARMED WITH ──  React · Next.js · TypeScript · Node · AWS         │    │
+│   │  DANGEROUS  ──  Ships to prod. Doesn't flinch.                   │    │
+│   └───────────────────────────────────────────────────────────────────┘    │
+│                                                                             │
+│   NOTES FROM FIELD AGENT:                                                  │
+│   ┌───────────────────────────────────────────────────────────────────┐    │
+│   │                                                                   │    │
+│   │  Subject was spotted learning AWS & Docker. Claims it's "easy."  │    │
+│   │  Suspect is lying. He's been on the same tutorial for 3 weeks.   │    │
+│   │                                                                   │    │
+│   │  Known to disappear for hours into PUBG Mobile. Returns with     │    │
+│   │  chicken dinner and renewed coding energy. Threat level: high.   │    │
+│   │                                                                   │    │
+│   │  Primary fuel source: coffee. Cut the supply, he stops working.  │    │
+│   │  Secondary fuel source: Stack Overflow. Do not disconnect.       │    │
+│   │                                                                   │    │
+│   │  Last known commit message: "fix stuff"    ← still in prod.      │    │
+│   │  Last known PR title: "misc changes"       ← 1,400 lines added.  │    │
+│   │                                                                   │    │
+│   └───────────────────────────────────────────────────────────────────┘    │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
@@ -58,42 +85,21 @@ root@hackbox:~$ whoami --honest
 <br/>
 
 ```
-root@hackbox:~$ cat /dev/excuses
-```
-
-```
-  ┌──────────────────────────────────────────────────────────────────────────┐
-  │                                                                          │
-  │   "It works on my machine."          →  shipped anyway                  │
-  │   "That's not a bug, it's a feature" →  still in production             │
-  │   "I'll write tests later."          →  (later = never)                 │
-  │   "Just one more commit."            →  it is now 4AM                   │
-  │   "I know what I'm doing."           →  I do not                        │
-  │                                                                          │
-  └──────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
----
-
-<br/>
-
-```
-root@hackbox:~$ ifconfig --social
+// KNOWN COMMUNICATION CHANNELS ── INTERCEPT OR CONTACT DIRECTLY
 ```
 
 <br/>
 
 <div align="center">
 
-[![](https://img.shields.io/badge/>>_MAIL-alenbabychan@gmail.com-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=000000)](mailto:alenbabychan@gmail.com)
-[![](https://img.shields.io/badge/>>_LINKEDIN-alanbabychan-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000)](https://www.linkedin.com/in/alanbabychan/)
-[![](https://img.shields.io/badge/>>_MAINFRAME-alanbabychan.online-39ff14?style=for-the-badge&logo=vercel&logoColor=39ff14&labelColor=000000)](https://www.alanbabychan.online/)
-[![](https://img.shields.io/badge/>>_INSTAGRAM-@kiddo.x.__-00cc33?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=000000)](https://www.instagram.com/kiddo.x.__/)
-[![](https://img.shields.io/badge/>>_TWITTER-@alan__babychan-00cc33?style=for-the-badge&logo=x&logoColor=00ff41&labelColor=000000)](https://x.com/alan_babychan)
-[![](https://img.shields.io/badge/>>_FACEBOOK-kiddo.x23-00cc33?style=for-the-badge&logo=facebook&logoColor=00ff41&labelColor=000000)](https://www.facebook.com/kiddo.x23)
-[![](https://img.shields.io/badge/>>_SNAPCHAT-kiddo.x23-009922?style=for-the-badge&logo=snapchat&logoColor=00ff41&labelColor=000000)](https://www.snapchat.com/add/kiddo.x23)
+[![](https://img.shields.io/badge/CHANNEL_01-alenbabychan@gmail.com-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=000000)](mailto:alenbabychan@gmail.com)
+[![](https://img.shields.io/badge/CHANNEL_02-LinkedIn-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000)](https://www.linkedin.com/in/alanbabychan/)
+[![](https://img.shields.io/badge/CHANNEL_03-alanbabychan.online-39ff14?style=for-the-badge&logo=vercel&logoColor=39ff14&labelColor=000000)](https://www.alanbabychan.online/)
+
+[![](https://img.shields.io/badge/CHANNEL_04-Instagram-00cc33?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=000000)](https://www.instagram.com/kiddo.x.__/)
+[![](https://img.shields.io/badge/CHANNEL_05-Twitter-00cc33?style=for-the-badge&logo=x&logoColor=00ff41&labelColor=000000)](https://x.com/alan_babychan)
+[![](https://img.shields.io/badge/CHANNEL_06-Facebook-00cc33?style=for-the-badge&logo=facebook&logoColor=00ff41&labelColor=000000)](https://www.facebook.com/kiddo.x23)
+[![](https://img.shields.io/badge/CHANNEL_07-Snapchat-009922?style=for-the-badge&logo=snapchat&logoColor=00ff41&labelColor=000000)](https://www.snapchat.com/add/kiddo.x23)
 
 </div>
 
@@ -104,32 +110,21 @@ root@hackbox:~$ ifconfig --social
 <br/>
 
 ```
-root@hackbox:~$ ls ./skills/ --no-lies
+// WEAPONS MANIFEST ── RECOVERED FROM SUBJECT'S LOCAL MACHINE
 ```
 
 <br/>
 
-<div align="center">
-
-| `THING I USE` | `HOW OFTEN` | `CONFIDENCE LEVEL` |
-|:---|:---:|:---:|
-| React / Next.js | Daily | ████████████ Dangerous |
-| TypeScript | Daily | ███████████░ Send help |
-| TailwindCSS | Daily | ████████████ Pixel perfect |
-| Node.js / PHP | Weekly | ██████████░░ Solid |
-| Python | Occasionally | ████████░░░░ Enough to be dangerous |
-| MongoDB / MySQL | Always | █████████░░░ I speak database |
-| AWS | Learning | █████░░░░░░░ Watching tutorials |
-| Docker | Learning | ████░░░░░░░░ Almost made it work once |
-| Git | Constantly | ████████████ `git push --force` supremacy |
-
-</div>
+```
+  ┌──────────────────────────────────────────────────────────────────────┐
+  │  WARNING: Some of these have caused production incidents.            │
+  │  Subject shows no remorse.                                           │
+  └──────────────────────────────────────────────────────────────────────┘
+```
 
 <br/>
 
-```
-  // badges for the visual people
-```
+**`[ PRIMARY WEAPONS ]`**
 
 ![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=00ff41)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=00ff41)
@@ -138,18 +133,24 @@ root@hackbox:~$ ls ./skills/ --no-lies
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=00ff41)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=00ff41)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=00ff41)
+
+**`[ SECONDARY WEAPONS ]`**
+
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=00ff41)
 ![PHP](https://img.shields.io/badge/PHP-000?style=flat-square&logo=php&logoColor=00ff41)
 ![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00ff41)
 ![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=00ff41)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=00ff41)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=00ff41)
+
+**`[ INFRASTRUCTURE ]`**
+
 ![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonaws&logoColor=00ff41)
 ![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=00ff41)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=00ff41)
 ![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=00ff41)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=00ff41)
 ![GitLab](https://img.shields.io/badge/GitLab-000?style=flat-square&logo=gitlab&logoColor=00ff41)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=00ff41)
 ![Strapi](https://img.shields.io/badge/Strapi-000?style=flat-square&logo=strapi&logoColor=00ff41)
 ![WordPress](https://img.shields.io/badge/WordPress-000?style=flat-square&logo=wordpress&logoColor=00ff41)
 ![VSCode](https://img.shields.io/badge/VS_Code-000?style=flat-square&logo=visualstudiocode&logoColor=00ff41)
@@ -161,8 +162,7 @@ root@hackbox:~$ ls ./skills/ --no-lies
 <br/>
 
 ```
-root@hackbox:~$ sudo ./stats.sh
-// warning: results may cause imposter syndrome in others
+// EVIDENCE ── PULLED FROM github.com/alanbabychan
 ```
 
 <br/>
@@ -190,7 +190,7 @@ root@hackbox:~$ sudo ./stats.sh
 <br/>
 
 ```
-root@hackbox:~$ tail -f /var/log/things_i_actually_did
+// SURVEILLANCE FEED ── LAST 90 DAYS OF ACTIVITY
 ```
 
 <div align="center">
@@ -206,7 +206,7 @@ root@hackbox:~$ tail -f /var/log/things_i_actually_did
 <br/>
 
 ```
-root@hackbox:~$ cat trophies.log   // yes these are real, no I didn't cheat
+// COMMENDATIONS ── YES THESE ARE REAL
 ```
 
 <div align="center">
@@ -222,7 +222,7 @@ root@hackbox:~$ cat trophies.log   // yes these are real, no I didn't cheat
 <br/>
 
 ```
-root@hackbox:~$ ./snake  // this eats my contributions and I still can't stop it
+// PATTERN OF LIFE ── CONTRIBUTION TRAIL
 ```
 
 <div align="center">
@@ -238,23 +238,21 @@ root@hackbox:~$ ./snake  // this eats my contributions and I still can't stop it
 <br/>
 
 ```
-root@hackbox:~$ cat support.txt
+// FINAL TRANSMISSION ── FROM THE SUBJECT HIMSELF
 ```
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   Look. I'm not going to beg.                                            ║
-║                                                                          ║
-║   But if my code helped you, saved you a Stack Overflow trip,            ║
-║   or just made you feel better about your own code —                     ║
-║   a coffee would be nice. ☕                                             ║
-║                                                                          ║
-║   No pressure. I'll be here either way, committing at 3AM.              ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   If you've read this far —  you're either a recruiter, a developer,        ║
+║   or you have too much free time. All three are welcome here.               ║
+║                                                                              ║
+║   If my work helped you in any way, a coffee goes a long way. ☕            ║
+║   If it didn't help — open an issue. I dare you.                            ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <a href="https://www.buymeacoffee.com/alanbabychan">
@@ -263,28 +261,24 @@ root@hackbox:~$ cat support.txt
 
 <br/><br/>
 
-![](https://img.shields.io/badge/bug_free-lies-00ff41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/last_commit_msg-"fix_stuff"-00ff41?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/works_on-my_machine-39ff14?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/lines_changed-"misc_cleanup"_=_+1400-39ff14?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/tested_in-production-00cc33?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/deploy_strategy-pray_%26_push-00cc33?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/documentation-what_documentation%3F-006600?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/current_status-alive_(probably)-006600?style=flat-square&labelColor=000000)
 
 </div>
 
 <br/>
 
 ```
-root@hackbox:~$ exit
-// saving session...
-// closing 47 browser tabs...
-// pretending I'll fix that TODO tomorrow...
-// logging off.
-
-Connection closed. Go touch grass. 🌿
+// END OF FILE DUMP
+// THIS DOCUMENT WILL SELF DESTRUCT IN:  3... 2... 1...
+// just kidding. star the repo though.
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0d0021,50:1a0040,75:0d0021,100:000000&height=160&section=footer&text=///+SIGNAL+LOST+///&fontSize=22&fontColor=c084fc&animation=twinkling&fontAlignY=50&desc=01000111+01001111+01001111+01000100+01000010+01011001+01000101&descSize=12&descAlignY=75&descColor=00ff41"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0d0021,50:1a0040,75:0d0021,100:000000&height=160&section=footer&text=///+FILE+CLOSED+///&fontSize=22&fontColor=c084fc&animation=twinkling&fontAlignY=50&desc=01000111+01001111+01001111+01000100+01000010+01011001+01000101&descSize=12&descAlignY=75&descColor=00ff41"/>
 </div>
