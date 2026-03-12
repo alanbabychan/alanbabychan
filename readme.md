@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6E00,50:FF4500,100:002F64&height=200&section=header&text=Alan%20Babychan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer&descAlignY=58&descSize=20&descColor=FFD580"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:003300,80:00ff41,100:000000&height=200&section=header&text=Alan%20Babychan&fontSize=50&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=//+Software+Development+Engineer&descAlignY=58&descSize=18&descColor=39ff14"/>
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&color=FF6E00&labelColor=002F64"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&color=00ff41&labelColor=000000&label=visitors"/>
 </div>
 
 <div align="center">
@@ -10,9 +10,9 @@
 
 ### I'm **Alan Babychan** — I build things for the web 🌐
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&duration=3500&pause=1800&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Development+Engineer+🚀;Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;AWS+%7C+Docker+%7C+Cloud+Explorer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=3500&pause=1800&color=00FF41&center=true&vCenter=true&width=620&lines=Software+Development+Engineer+🚀;Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;AWS+%7C+Docker+%7C+Cloud+Explorer"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=18&duration=3500&pause=2000&color=FF6E00&center=true&vCenter=true&width=600&lines=💼+Software+Engineer+%40+Covermatch+Technologies+FZCO"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=3500&pause=2000&color=39FF14&center=true&vCenter=true&width=620&lines=[+ACTIVE+]+Software+Engineer+%40+Covermatch+Technologies+FZCO"/>
 
 </div>
 
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.alanbabychan.online/">
-  <img src="https://img.shields.io/badge/Portfolio-FF6E00?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 <a href="https://www.instagram.com/kiddo.x.__/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 <a href="https://x.com/alan_babychan">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00ff41"/>
 </a>
 <a href="https://www.snapchat.com/add/kiddo.x23">
   <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
@@ -66,11 +66,11 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,python,php,java,c,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,php,java,c,mongodb,mysql&theme=dark" />
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,vercel,vscode,wordpress,wix" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,vercel,vscode,wordpress,wix&theme=dark" />
 
 </div>
 
@@ -82,9 +82,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alanbabychan&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=10"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alanbabychan&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true&border_radius=6&border_color=00ff41&icon_color=39ff14&title_color=00ff41&bg_color=000000"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbabychan&layout=compact&theme=radical&border_radius=10"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbabychan&layout=compact&theme=chartreuse-dark&border_radius=6&border_color=00ff41&title_color=00ff41&bg_color=000000"/>
 
 </div>
 
@@ -92,31 +92,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alanbabychan&theme=radical&border_radius=10" height="170"/>
-
-</div>
-
-<br/>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=alanbabychan&theme=radical&no-frame=true&margin-w=6&column=7"/>
-
-</div>
-
-<br/>
-
----
-
-## ⏱️ Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=alanbabychan&layout=compact&theme=radical&border_radius=10"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alanbabychan&background=000000&border=00ff41&stroke=002200&ring=39ff14&fire=00ff41&currStreakNum=00ff41&sideNums=00cc33&currStreakLabel=39ff14&sideLabels=00cc33&dates=005500&border_radius=6"/>
 
 </div>
 
@@ -128,7 +104,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alanbabychan&theme=react-dark&hide_border=true&radius=8"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alanbabychan&bg_color=000000&color=00ff41&line=39ff14&point=00ff41&area=true&area_color=00ff4118&hide_border=false&border_color=00ff41&radius=6"/>
 
 </div>
 
@@ -140,7 +116,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/alanbabychan/alanbabychan/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/alanbabychan/alanbabychan/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -162,4 +138,4 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002F64,50:FF4500,100:FF6E00&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:003300,80:00ff41,100:000000&height=140&section=footer"/>
