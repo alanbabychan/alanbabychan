@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/github/followers/alanbabychan?style=flat-square&color=009926&labelColor=000000&label=AGENTS&logo=github&logoColor=009926"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001400,65:002800,100:000000&height=240&section=header&text=ALAN%20BABYCHAN&fontSize=56&fontColor=009926&animation=twinkling&fontAlignY=40&desc=◈%20%20Software%20Development%20Engineer%20%20◈%20%20Full%20Stack%20Developer%20%20◈&descAlignY=62&descSize=14&descColor=009926&stroke=009926&strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001400,65:002800,100:000000&height=320&section=header&text=ALAN%20BABYCHAN&fontSize=72&fontColor=009926&animation=twinkling&fontAlignY=42&desc=◈%20%20Software%20Development%20Engineer%20%20◈%20%20Full%20Stack%20Developer%20%20◈&descAlignY=64&descSize=18&descColor=009926&stroke=009926&strokeWidth=2"/>
 
 <br/>
 
@@ -30,7 +30,7 @@
 &nbsp;
 ![](https://img.shields.io/badge/DEPLOY-LIVE-009926?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/PROCESS-AWS__BOOT-009926?style=flat-square&labelColor=000000&logo=amazonaws&logoColor=009926)
+![](https://img.shields.io/badge/PROCESS-AWS__BOOT-009926?style=flat-square&labelColor=000000&logo=amazonaws&logoColor=00cc44)
 
 </div>
 
@@ -64,7 +64,7 @@
 
 [![](https://img.shields.io/badge/>>_GMAIL-alenbabychan@gmail.com-009926?style=for-the-badge&logo=gmail&logoColor=009926&labelColor=000000)](mailto:alenbabychan@gmail.com)
 &nbsp;
-[![](https://img.shields.io/badge/>>_LINKEDIN-alanbabychan-009926?style=for-the-badge&logo=linkedin&logoColor=009926&labelColor=000000)](https://www.linkedin.com/in/alanbabychan/)
+[![](https://img.shields.io/badge/>>_LINKEDIN-alanbabychan-009926?style=for-the-badge&logo=linkedin&logoColor=00cc44&labelColor=000000)](https://www.linkedin.com/in/alanbabychan/)
 &nbsp;
 [![](https://img.shields.io/badge/>>_PORTFOLIO-alanbabychan.online-009926?style=for-the-badge&logo=vercel&logoColor=009926&labelColor=000000)](https://www.alanbabychan.online/)
 
@@ -110,7 +110,7 @@
 &nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=009926)
 &nbsp;
-![CSS3](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=009926)
+![CSS3](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=00cc44)
 
 <br/>
 
@@ -154,7 +154,7 @@
 
 <br/>
 
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=009926)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00cc44)
 &nbsp;
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=009926)
 &nbsp;
@@ -168,7 +168,7 @@
 &nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=009926)
 &nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=009926)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00cc44)
 
 <br/>
 
@@ -272,4 +272,4 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:1a0000,65:3d0000,100:000000&height=160&section=footer&text=◈%20SIGNAL%20LOST%20◈&fontSize=22&fontColor=CC0000&animation=twinkling&fontAlignY=50&desc=CONNECTION%20TERMINATED%20%2F%2F%20ACCESS%20DENIED%20%2F%2F%20NODE%20OFFLINE&descSize=11&descAlignY=72&descColor=880000"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:1a0000,65:3d0000,100:000000&height=220&section=footer&text=◈%20SIGNAL%20LOST%20◈&fontSize=38&fontColor=CC0000&animation=twinkling&fontAlignY=50&desc=CONNECTION%20TERMINATED%20%2F%2F%20ACCESS%20DENIED%20%2F%2F%20NODE%20OFFLINE&descSize=15&descAlignY=72&descColor=880000"/>
