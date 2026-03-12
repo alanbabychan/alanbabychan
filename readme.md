@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=17&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=INITIALIZING+PROFILE+SEQUENCE...;LOADING+USER+DATA+%3E%3E%3E+alan_babychan.exe;RETRIEVING+%3A+Software+Development+Engineer;RETRIEVING+%3A+Covermatch+Technologies+FZCO;RETRIEVING+%3A+Kochi%2C+Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3;DECRYPTING+ACHIEVEMENT+%3A+YIP+5.0+District+Winner+%F0%9F%8F%86;DECRYPTING+ACHIEVEMENT+%3A+AI+Autism+Detection+Founder;MOUNTING+STACK...+REACT+%2F+NEXT.JS+%2F+TYPESCRIPT+%2F+NODE;UPTIME+%3A+99.9%25+%7C+DEPLOYMENT+STATUS+%3A+LIVE;ACCESS+GRANTED.+WELCOME+TO+THE+GRID."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=17&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=780&lines=INITIALIZING+PROFILE+SEQUENCE...;LOADING+USER+DATA+%3E%3E%3E+alan_babychan.exe;ACCESS+GRANTED...+WELCOME+TO+THE+GRID;RETRIEVING+PROFILE+NAME+%3A+ALAN+BABYCHAN;RETRIEVING+USERNAME+%3A+alanbabychan;RETRIEVING+ROLE+%3A+Software+Engineer+%40+Covermatch+Technologies+FZCO;DECRYPTING+ACHIEVEMENT+%3A+YIP+5.0+District+Winner+%F0%9F%8F%86;UPTIME+%3A+99.9%25+%7C+DEPLOYMENT+STATUS+%3A+LIVE;20%2B+TECH+SKILLS+%7C+10%2B+PROJECTS+DEPLOYED;15%2B+REPOSITORIES+%7C+750%2B+COMMITS+PUSHED"/>
 
 </div>
 
@@ -182,8 +182,6 @@
 
 <div align="center">
 
-<br/>
-
 *// end of transmission — if this repo helped you, fuel the next deploy*
 
 <br/>
@@ -207,9 +205,11 @@
 <br/>
 
 <div align="center">
-<sub><code>01000111 01001111 01001111 01000100 01000010 01011001 01000101</code></sub>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=15&duration=2000&pause=600&color=FF0000&center=true&vCenter=true&width=780&lines=TERMINATING+SESSION...;FLUSHING+MEMORY+BUFFERS...;DELETING+CACHED+DATA...;REVOKING+ACCESS+TOKENS...;CLOSING+ALL+OPEN+PORTS...;WIPING+TEMP+FILES...;DISCONNECTING+FROM+NODE...;CONNECTION+LOST.;SIGNAL+LOST.;ACCESS+DENIED.;◈+SESSION+TERMINATED+◈"/>
+
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,65:003300,100:000000&height=150&section=footer&text=◈%20SIGNAL%20LOST%20◈&fontSize=20&fontColor=00ff41&animation=twinkling&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:1a0000,65:3d0000,100:000000&height=150&section=footer&text=◈%20SIGNAL%20LOST%20◈&fontSize=20&fontColor=ff2222&animation=twinkling&fontAlignY=65"/>
