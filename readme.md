@@ -1,14 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,65:003300,100:000000&height=230&section=header&text=ALAN%20BABYCHAN&fontSize=54&fontColor=00ff41&animation=twinkling&fontAlignY=40&desc=01000001%20%7C%20Software%20Development%20Engineer%20%7C%2001000010&descAlignY=62&descSize=13&descColor=39ff14&stroke=00ff41&strokeWidth=1"/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&color=00ff41&labelColor=000000&label=visitors"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/alanbabychan?style=flat&color=00ff41&labelColor=000000&label=followers&logo=github&logoColor=00ff41"/>
-
-</div>
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&color=00ff41&labelColor=000000&label=visitors"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/alanbabychan?style=flat&color=00ff41&labelColor=000000&label=followers&logo=github&logoColor=00ff41"/>
+</p>
 
 <br/>
 
@@ -46,18 +42,14 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-%20Gmail%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>&nbsp;
-<a href="mailto:alenbabychan@gmail.com">alenbabychan@gmail.com</a>
+[![](https://img.shields.io/badge/>>_GMAIL-alenbabychan@gmail.com-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=000000)](mailto:alenbabychan@gmail.com)
+[![](https://img.shields.io/badge/>>_LINKEDIN-alanbabychan-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000)](https://www.linkedin.com/in/alanbabychan/)
+[![](https://img.shields.io/badge/>>_PORTFOLIO-alanbabychan.online-39ff14?style=for-the-badge&logo=vercel&logoColor=39ff14&labelColor=000000)](https://www.alanbabychan.online/)
 
-<br/><br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alenbabychan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanbabychan/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=vercel&logoColor=000000)](https://www.alanbabychan.online/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kiddo.x.__/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00ff41)](https://x.com/alan_babychan)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kiddo.x23)
-[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/kiddo.x23)
+[![](https://img.shields.io/badge/>>_INSTAGRAM-@kiddo.x.__-00cc33?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=000000)](https://www.instagram.com/kiddo.x.__/)
+[![](https://img.shields.io/badge/>>_TWITTER-@alan__babychan-00cc33?style=for-the-badge&logo=x&logoColor=00ff41&labelColor=000000)](https://x.com/alan_babychan)
+[![](https://img.shields.io/badge/>>_FACEBOOK-kiddo.x23-00cc33?style=for-the-badge&logo=facebook&logoColor=00ff41&labelColor=000000)](https://www.facebook.com/kiddo.x23)
+[![](https://img.shields.io/badge/>>_SNAPCHAT-kiddo.x23-009922?style=for-the-badge&logo=snapchat&logoColor=00ff41&labelColor=000000)](https://www.snapchat.com/add/kiddo.x23)
 
 </div>
 
