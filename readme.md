@@ -30,7 +30,7 @@
 &nbsp;
 ![](https://img.shields.io/badge/DEPLOY-LIVE-009926?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/PROCESS-AWS__BOOT-009926?style=flat-square&labelColor=000000&logo=amazon-aws&logoColor=ffffff)
+![](https://img.shields.io/badge/PROCESS-AWS__BOOT-009926?style=flat-square&labelColor=000000&logo=amazonaws&logoColor=ffffff)
 
 </div>
 
@@ -154,7 +154,7 @@
 
 <br/>
 
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=ffffff)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-000000?style=for-the-badge&logo=aws&logoColor=ffffff)
 &nbsp;
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ffffff)
 &nbsp;
@@ -168,7 +168,7 @@
 &nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=ffffff)
 &nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![VS Code](https://custom-icon-badges.demolab.com/badge/VS_Code-000000?style=for-the-badge&logo=vsc&logoColor=ffffff)
 
 <br/>
 
