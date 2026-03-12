@@ -1,29 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:001100,50:003300,80:005500,100:00ff41&height=220&section=header&text=HACKTERM+v2.4.1&fontSize=48&fontColor=00ff41&animation=twinkling&fontAlignY=40&desc=●%20PHOSPHOR%20DISPLAY%20ACTIVE%20●%20ALAN%20BABYCHAN%20ONLINE%20●&descSize=13&descAlignY=65&descColor=00cc33&stroke=00ff41&strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0d0021,50:1a0040,75:0d0021,100:000000&height=260&section=header&text=⬡%20ALAN%20BABYCHAN%20⬡&fontSize=46&fontColor=c084fc&animation=twinkling&fontAlignY=40&desc=///%20FULL%20STACK%20ENGINEER%20///%20COVERMATCH%20TECHNOLOGIES%20FZCO%20///&descSize=13&descAlignY=63&descColor=22d3ee&stroke=c084fc&strokeWidth=2"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                                                         ▓
-▓    ██████╗ ██████╗ ████████╗   ██████╗  ██████╗  ██████╗ ████████╗    ▓
-▓    ██╔══██╗██╔══██╗╚══██╔══╝   ██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝    ▓
-▓    ██████╔╝██████╔╝   ██║      ██████╔╝██║   ██║██║   ██║   ██║       ▓
-▓    ██╔══██╗██╔══██╗   ██║      ██╔══██╗██║   ██║██║   ██║   ██║       ▓
-▓    ██████╔╝██║  ██║   ██║      ██████╔╝╚██████╔╝╚██████╔╝   ██║       ▓
-▓    ╚═════╝ ╚═╝  ╚═╝   ╚═╝      ╚═════╝  ╚═════╝  ╚═════╝   ╚═╝       ▓
-▓                         [ ALAN BABYCHAN ]                               ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=22&duration=1200&pause=200&color=00FF41&center=true&vCenter=true&width=780&lines=HACKTERM+v2.4.1+(c)+1984-2025+ALANCORP+SYSTEMS;PHOSPHOR+DISPLAY+WARMING+UP...+%5BPLEASE+WAIT%5D;MEMORY+CHECK+...+640K+OK+(THAT'S+ENOUGH+FOR+ANYONE);LOADING+MODULE%3A+ALAN_BABYCHAN.EXE+............+OK;LOADING+MODULE%3A+FULL_STACK_DEV.DLL+...........+OK;LOADING+MODULE%3A+REACT_NEXTJS_TS.SYS+..........+OK;LOADING+MODULE%3A+PUBG_ADDICTION.DRV+...........+OK;WARNING%3A+COFFEE+BUFFER+OVERFLOW+DETECTED+%E2%98%95%E2%98%95%E2%98%95;ALL+SYSTEMS+NOMINAL.+PRESS+ANY+KEY+TO+CONTINUE_;ALAN+BABYCHAN+IS+NOW+ONLINE.+GOOD+LUCK."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=15&duration=2000&pause=600&color=22D3EE&center=true&vCenter=true&width=760&lines=╔══════════════════════════════════════════════════════════════╗;║+NEON+CITY+NET+//+NODE+%3A%3A+github.com%2Falanbabychan+LOCATED++++║;║+SIGNAL+LOCK+%3A+CONFIRMED+//+IDENTITY+%3A+ALAN+BABYCHAN+++++++++║;║+CLEARANCE+%3A+FULL_STACK+//+BASE+%3A+DUBAI%2C+UAE+%F0%9F%87%A6%F0%9F%87%AA+++++++++║;║+STATUS+%3A+[+████████████+]+ONLINE+//+THREAT+LVL+%3A+CRITICAL+║;╚══════════════════════════════════════════════════════════════╝"/>
 
 </div>
 
@@ -31,23 +14,15 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  HACKTERM  │  PHO5PH0R-3  │  80×25  │  9600 BAUD  │  ████ SIGNAL  ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  USER: alan@hackterm    PWD: /home/alan    UPTIME: ∞                ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-![](https://img.shields.io/badge/CRT-PHOSPHOR_ON-00ff41?style=flat-square&labelColor=0a0a0a&logo=gnometerminal&logoColor=00ff41)
+![](https://img.shields.io/badge/◈_NET_STATUS-JACKED_IN-c084fc?style=flat-square&labelColor=0d0021&logoColor=c084fc)
 &nbsp;
-![](https://img.shields.io/badge/BAUD-9600-00cc33?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/◈_ICE-BYPASSED-22d3ee?style=flat-square&labelColor=0d0021)
 &nbsp;
-![](https://img.shields.io/badge/RAM-640K_(ENOUGH_FOR_ANYONE)-00ff41?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/◈_LOCATION-DUBAI_NODE-a78bfa?style=flat-square&labelColor=0d0021)
 &nbsp;
-[![](https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&style=flat-square&color=00ff41&labelColor=0a0a0a&label=VISITORS)](https://github.com/alanbabychan)
+[![](https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&style=flat-square&color=c084fc&labelColor=0d0021&label=◈_GHOSTS)](https://github.com/alanbabychan)
 &nbsp;
-[![](https://img.shields.io/github/followers/alanbabychan?style=flat-square&color=00ff41&labelColor=0a0a0a&label=FOLLOWERS&logo=github&logoColor=00ff41)](https://github.com/alanbabychan?tab=followers)
+[![](https://img.shields.io/github/followers/alanbabychan?style=flat-square&color=22d3ee&labelColor=0d0021&label=◈_CREW&logo=github&logoColor=c084fc)](https://github.com/alanbabychan?tab=followers)
 
 </div>
 
@@ -58,36 +33,41 @@
 <br/>
 
 ```
-C:\> TYPE ALAN.NFO
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  ░ ▒ ▓ █  N E O N   C I T Y   N E T   //   I D E N T I T Y   D U M P  █ ▓ ▒ ░  │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ```
-╔════════════════════════════════════════════════════════════════════════════╗
-║▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   DOSSIER.NFO   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓║
-╠════════════════════════════════════════════════════════════════════════════╣
-║                                                                            ║
-║  ┌─ HANDLE ─────────────────────────────────────────────────────────────┐ ║
-║  │                                                                      │ ║
-║  │   NAME    »  Alan Babychan                                           │ ║
-║  │   ALIAS   »  @alanbabychan                                           │ ║
-║  │   CLASS   »  Software Development Engineer                           │ ║
-║  │   GUILD   »  Covermatch Technologies FZCO          [ MEMBER ]        │ ║
-║  │   NODE    »  Dubai, UAE  🇦🇪                        [ ACTIVE ]        │ ║
-║  │                                                                      │ ║
-║  └──────────────────────────────────────────────────────────────────────┘ ║
-║                                                                            ║
-║  ┌─ CURRENT BOOT SEQUENCE ──────────────────────────────────────────────┐ ║
-║  │                                                                      │ ║
-║  │   [>] Mastering    »  AWS · Docker · Strapi                          │ ║
-║  │   [>] Currently    »  Shipping prod features @ Covermatch            │ ║
-║  │   [>] Side quest   »  PUBG Mobile chicken dinners  🐔               │ ║
-║  │   [>] Fuel level   »  ☕☕☕  [DANGEROUS]                            │ ║
-║  │   [>] Sleep mode   »  DISABLED (commits don't write themselves)      │ ║
-║  │                                                                      │ ║
-║  └──────────────────────────────────────────────────────────────────────┘ ║
-║                                                                            ║
-║  ░░░ "I don't always test my code, but when I do, I do it in prod." ░░░   ║
-╚════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ┌─────────────────────────────────────────────────────────────────────┐   ║
+║   │  >> HANDLE      :  Alan Babychan                                    │   ║
+║   │  >> NET_TAG     :  @alanbabychan                                    │   ║
+║   │  >> CLASS       :  Software Development Engineer                    │   ║
+║   │  >> CORP        :  Covermatch Technologies FZCO      [ ACTIVE ]     │   ║
+║   │  >> NODE        :  Dubai, UAE  🇦🇪                   [ ONLINE ]     │   ║
+║   │  >> STACK       :  React · Next.js · TypeScript · Node · AWS        │   ║
+║   └─────────────────────────────────────────────────────────────────────┘   ║
+║                                                                              ║
+║   ┌─ NEURAL LOAD ─────────────────────────────────────────────────────────┐ ║
+║   │                                                                       │ ║
+║   │   React / Next.js   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  ◈ MAX                    │ ║
+║   │   TypeScript        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░  ◈ 91%                    │ ║
+║   │   Node.js           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  ◈ 85%                    │ ║
+║   │   AWS               ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░  ◈ 55%  ← UPLOADING       │ ║
+║   │   Docker            ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░  ◈ 50%  ← UPLOADING       │ ║
+║   │   Strapi            ▓▓▓▓▓▓▓▓░░░░░░░░░░░░  ◈ 40%  ← UPLOADING       │ ║
+║   │                                                                       │ ║
+║   └───────────────────────────────────────────────────────────────────────┘ ║
+║                                                                              ║
+║   ┌─ SIDE RUNS ───────────────────────────────────────────────────────────┐ ║
+║   │   ACTIVE MISSION  ::  Grinding AWS certs in the neon dark            │ ║
+║   │   RECREATION      ::  PUBG Mobile  🐔  dropping hot every night      │ ║
+║   │   DEPENDENCY      ::  ☕ × ∞   (non-negotiable)                      │ ║
+║   │   PHILOSOPHY      ::  Ship it. Fix it. Ship it again.                │ ║
+║   └───────────────────────────────────────────────────────────────────────┘ ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
@@ -95,21 +75,21 @@ C:\> TYPE ALAN.NFO
 ---
 
 ```
-C:\> PING ALAN /T
+// jack_in --target social_net --encrypt all
 ```
 
 <br/>
 
 <div align="center">
 
-[![](https://img.shields.io/badge/▶▶_MAIL-alenbabychan@gmail.com-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0a0a0a)](mailto:alenbabychan@gmail.com)
-[![](https://img.shields.io/badge/▶▶_LINKEDIN-alanbabychan-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0a0a0a)](https://www.linkedin.com/in/alanbabychan/)
-[![](https://img.shields.io/badge/▶▶_MAINFRAME-alanbabychan.online-00ff41?style=for-the-badge&logo=vercel&logoColor=00ff41&labelColor=0a0a0a)](https://www.alanbabychan.online/)
+[![](https://img.shields.io/badge/⬡_MAIL-alenbabychan@gmail.com-c084fc?style=for-the-badge&logo=gmail&logoColor=c084fc&labelColor=0d0021)](mailto:alenbabychan@gmail.com)
+[![](https://img.shields.io/badge/⬡_LINKEDIN-alanbabychan-22d3ee?style=for-the-badge&logo=linkedin&logoColor=22d3ee&labelColor=0d0021)](https://www.linkedin.com/in/alanbabychan/)
+[![](https://img.shields.io/badge/⬡_MAINFRAME-alanbabychan.online-a78bfa?style=for-the-badge&logo=vercel&logoColor=a78bfa&labelColor=0d0021)](https://www.alanbabychan.online/)
 
-[![](https://img.shields.io/badge/▶▶_INSTAGRAM-@kiddo.x.__-00cc33?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=0a0a0a)](https://www.instagram.com/kiddo.x.__/)
-[![](https://img.shields.io/badge/▶▶_TWITTER-@alan__babychan-00cc33?style=for-the-badge&logo=x&logoColor=00ff41&labelColor=0a0a0a)](https://x.com/alan_babychan)
-[![](https://img.shields.io/badge/▶▶_FACEBOOK-kiddo.x23-00cc33?style=for-the-badge&logo=facebook&logoColor=00ff41&labelColor=0a0a0a)](https://www.facebook.com/kiddo.x23)
-[![](https://img.shields.io/badge/▶▶_SNAPCHAT-kiddo.x23-009922?style=for-the-badge&logo=snapchat&logoColor=00ff41&labelColor=0a0a0a)](https://www.snapchat.com/add/kiddo.x23)
+[![](https://img.shields.io/badge/⬡_INSTAGRAM-@kiddo.x.__-c084fc?style=for-the-badge&logo=instagram&logoColor=c084fc&labelColor=0d0021)](https://www.instagram.com/kiddo.x.__/)
+[![](https://img.shields.io/badge/⬡_TWITTER-@alan__babychan-22d3ee?style=for-the-badge&logo=x&logoColor=22d3ee&labelColor=0d0021)](https://x.com/alan_babychan)
+[![](https://img.shields.io/badge/⬡_FACEBOOK-kiddo.x23-a78bfa?style=for-the-badge&logo=facebook&logoColor=a78bfa&labelColor=0d0021)](https://www.facebook.com/kiddo.x23)
+[![](https://img.shields.io/badge/⬡_SNAPCHAT-kiddo.x23-c084fc?style=for-the-badge&logo=snapchat&logoColor=c084fc&labelColor=0d0021)](https://www.snapchat.com/add/kiddo.x23)
 
 </div>
 
@@ -118,60 +98,56 @@ C:\> PING ALAN /T
 ---
 
 ```
-C:\> DIR /arsenal  [sorted by POWER]
+// query_arsenal --decrypt --format=neon
 ```
 
 <br/>
 
 ```
- Volume in drive C is ALAN_OS        Serial Number is 0xDEADBEEF
- Directory of C:\ARSENAL\
-
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░ [ DECRYPTING MODULES ] ░░░░░░░░░░░░░░░░░
 ```
 
-**`[FRONTEND\]`** — *primary attack surface*
+**`⬡ FRONTEND  ///  primary interface layer`**
 
-![React](https://img.shields.io/badge/▸_React-0a0a0a?style=flat-square&logo=react&logoColor=00ff41)
-![Next.js](https://img.shields.io/badge/▸_Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=00ff41)
-![TypeScript](https://img.shields.io/badge/▸_TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=00ff41)
-![JavaScript](https://img.shields.io/badge/▸_JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=00ff41)
-![TailwindCSS](https://img.shields.io/badge/▸_Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=00ff41)
-![HTML5](https://img.shields.io/badge/▸_HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=00ff41)
-![CSS3](https://img.shields.io/badge/▸_CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=00ff41)
+![React](https://img.shields.io/badge/React-0d0021?style=flat-square&logo=react&logoColor=22d3ee)
+![Next.js](https://img.shields.io/badge/Next.js-0d0021?style=flat-square&logo=nextdotjs&logoColor=c084fc)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0021?style=flat-square&logo=typescript&logoColor=22d3ee)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0021?style=flat-square&logo=javascript&logoColor=c084fc)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d0021?style=flat-square&logo=tailwindcss&logoColor=22d3ee)
+![HTML5](https://img.shields.io/badge/HTML5-0d0021?style=flat-square&logo=html5&logoColor=c084fc)
+![CSS3](https://img.shields.io/badge/CSS3-0d0021?style=flat-square&logo=css3&logoColor=22d3ee)
 
-**`[BACKEND\]`** — *server room access granted*
+**`⬡ BACKEND  ///  deep system access`**
 
-![Node.js](https://img.shields.io/badge/▸_Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=00ff41)
-![PHP](https://img.shields.io/badge/▸_PHP-0a0a0a?style=flat-square&logo=php&logoColor=00ff41)
-![Python](https://img.shields.io/badge/▸_Python-0a0a0a?style=flat-square&logo=python&logoColor=00ff41)
-![Java](https://img.shields.io/badge/▸_Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=00ff41)
-![C](https://img.shields.io/badge/▸_C_Lang-0a0a0a?style=flat-square&logo=c&logoColor=00ff41)
+![Node.js](https://img.shields.io/badge/Node.js-0d0021?style=flat-square&logo=nodedotjs&logoColor=22d3ee)
+![PHP](https://img.shields.io/badge/PHP-0d0021?style=flat-square&logo=php&logoColor=c084fc)
+![Python](https://img.shields.io/badge/Python-0d0021?style=flat-square&logo=python&logoColor=22d3ee)
+![Java](https://img.shields.io/badge/Java-0d0021?style=flat-square&logo=openjdk&logoColor=c084fc)
+![C](https://img.shields.io/badge/C_Lang-0d0021?style=flat-square&logo=c&logoColor=22d3ee)
 
-**`[DATABASE\]`** — *root access only*
+**`⬡ DATABASE  ///  memory banks`**
 
-![MongoDB](https://img.shields.io/badge/▸_MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=00ff41)
-![MySQL](https://img.shields.io/badge/▸_MySQL-0a0a0a?style=flat-square&logo=mysql&logoColor=00ff41)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0021?style=flat-square&logo=mongodb&logoColor=22d3ee)
+![MySQL](https://img.shields.io/badge/MySQL-0d0021?style=flat-square&logo=mysql&logoColor=c084fc)
 
-**`[CLOUD_OPS\]`** — *currently grinding certs*
+**`⬡ CLOUD & OPS  ///  sky infrastructure`**
 
-![AWS](https://img.shields.io/badge/▸_AWS-0a0a0a?style=flat-square&logo=amazonaws&logoColor=00ff41)
-![Docker](https://img.shields.io/badge/▸_Docker-0a0a0a?style=flat-square&logo=docker&logoColor=00ff41)
-![Vercel](https://img.shields.io/badge/▸_Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=00ff41)
-![GitLab](https://img.shields.io/badge/▸_GitLab-0a0a0a?style=flat-square&logo=gitlab&logoColor=00ff41)
-![Git](https://img.shields.io/badge/▸_Git-0a0a0a?style=flat-square&logo=git&logoColor=00ff41)
-![GitHub](https://img.shields.io/badge/▸_GitHub-0a0a0a?style=flat-square&logo=github&logoColor=00ff41)
+![AWS](https://img.shields.io/badge/AWS-0d0021?style=flat-square&logo=amazonaws&logoColor=22d3ee)
+![Docker](https://img.shields.io/badge/Docker-0d0021?style=flat-square&logo=docker&logoColor=c084fc)
+![Vercel](https://img.shields.io/badge/Vercel-0d0021?style=flat-square&logo=vercel&logoColor=22d3ee)
+![GitLab](https://img.shields.io/badge/GitLab-0d0021?style=flat-square&logo=gitlab&logoColor=c084fc)
+![Git](https://img.shields.io/badge/Git-0d0021?style=flat-square&logo=git&logoColor=22d3ee)
+![GitHub](https://img.shields.io/badge/GitHub-0d0021?style=flat-square&logo=github&logoColor=c084fc)
 
-**`[TOOLS\]`** — *loaded and ready*
+**`⬡ TOOLS  ///  operator utilities`**
 
-![Strapi](https://img.shields.io/badge/▸_Strapi-0a0a0a?style=flat-square&logo=strapi&logoColor=00ff41)
-![WordPress](https://img.shields.io/badge/▸_WordPress-0a0a0a?style=flat-square&logo=wordpress&logoColor=00ff41)
-![VSCode](https://img.shields.io/badge/▸_VS_Code-0a0a0a?style=flat-square&logo=visualstudiocode&logoColor=00ff41)
-![Wix](https://img.shields.io/badge/▸_Wix-0a0a0a?style=flat-square&logo=wix&logoColor=00ff41)
+![Strapi](https://img.shields.io/badge/Strapi-0d0021?style=flat-square&logo=strapi&logoColor=22d3ee)
+![WordPress](https://img.shields.io/badge/WordPress-0d0021?style=flat-square&logo=wordpress&logoColor=c084fc)
+![VSCode](https://img.shields.io/badge/VS_Code-0d0021?style=flat-square&logo=visualstudiocode&logoColor=22d3ee)
+![Wix](https://img.shields.io/badge/Wix-0d0021?style=flat-square&logo=wix&logoColor=c084fc)
 
 ```
-        17 file(s)    1,337 bytes  [ELITE LEVEL DETECTED]
-        0 dir(s)      ∞ FREE SPACE (ideas never run out)
+░░░░░░░░░░░░░░░░░ [ ALL MODULES LOADED ] ░░░░░░░░░░░░░░░░░
 ```
 
 <br/>
@@ -179,16 +155,16 @@ C:\> DIR /arsenal  [sorted by POWER]
 ---
 
 ```
-C:\> RUN STATS.EXE --no-lies
+// run diagnostics --github --deep --neon
 ```
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alanbabychan&show_icons=true&count_private=true&include_all_commits=true&border_radius=2&border_color=00ff41&icon_color=00ff41&title_color=00ff41&text_color=00cc33&bg_color=000000" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alanbabychan&show_icons=true&count_private=true&include_all_commits=true&border_radius=6&border_color=c084fc&icon_color=22d3ee&title_color=c084fc&text_color=a78bfa&bg_color=0d0021" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbabychan&layout=compact&border_radius=2&border_color=00ff41&title_color=00ff41&text_color=00cc33&bg_color=000000" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbabychan&layout=compact&border_radius=6&border_color=c084fc&title_color=c084fc&text_color=a78bfa&bg_color=0d0021" height="170"/>
 
 </div>
 
@@ -196,7 +172,7 @@ C:\> RUN STATS.EXE --no-lies
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alanbabychan&background=000000&border=00ff41&stroke=002200&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=005500&border_radius=2"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alanbabychan&background=0d0021&border=c084fc&stroke=1a0040&ring=c084fc&fire=22d3ee&currStreakNum=c084fc&sideNums=a78bfa&currStreakLabel=22d3ee&sideLabels=a78bfa&dates=553399&border_radius=6"/>
 
 </div>
 
@@ -205,12 +181,12 @@ C:\> RUN STATS.EXE --no-lies
 ---
 
 ```
-C:\> MONITOR COMMITS /LIVE /FULLSCREEN
+// stream_commits --live --render=neon_city
 ```
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alanbabychan&bg_color=000000&color=00ff41&line=00ff41&point=00cc33&area=true&area_color=00ff4115&hide_border=false&border_color=00ff41&title_color=00ff41&radius=2"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alanbabychan&bg_color=0d0021&color=c084fc&line=22d3ee&point=c084fc&area=true&area_color=c084fc18&hide_border=false&border_color=c084fc&title_color=c084fc&radius=6"/>
 
 </div>
 
@@ -219,12 +195,12 @@ C:\> MONITOR COMMITS /LIVE /FULLSCREEN
 ---
 
 ```
-C:\> CHEAT UNLOCK_TROPHIES
+// unlock_achievements --show --theme=neon
 ```
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=alanbabychan&theme=matrix&no-frame=false&margin-w=4&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=alanbabychan&theme=radical&no-frame=false&margin-w=4&column=7"/>
 
 </div>
 
@@ -233,7 +209,7 @@ C:\> CHEAT UNLOCK_TROPHIES
 ---
 
 ```
-C:\> EXEC SNAKE.COM
+// spawn_snake --neon --watch
 ```
 
 <div align="center">
@@ -247,18 +223,16 @@ C:\> EXEC SNAKE.COM
 ---
 
 ```
-C:\> NOTEPAD SUPPORT.TXT
+// broadcast --channel open --encrypt off
 ```
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║  █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█  ║
-║  █  My code runs in prod. Your coffee keeps it running. ☕         █  ║
-║  █  If I saved you a Stack Overflow trip — buy me one.             █  ║
-║  █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█  ║
-╚══════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║  ░▒▓  If my code ran in your machine, buy me a coffee. ☕              ║
+║  ░▒▓  Neon cities don't build themselves, and neither do side projects.  ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 <a href="https://www.buymeacoffee.com/alanbabychan">
@@ -267,34 +241,27 @@ C:\> NOTEPAD SUPPORT.TXT
 
 <br/><br/>
 
-![](https://img.shields.io/badge/▸_LEET_SCORE-1337-00ff41?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/⬡_COMPILED-IN_THE_RAIN-c084fc?style=flat-square&labelColor=0d0021)
 &nbsp;
-![](https://img.shields.io/badge/▸_BUG_COUNT-0_(allegedly)-00cc33?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/⬡_SHIPS-AT_3AM-22d3ee?style=flat-square&labelColor=0d0021)
 &nbsp;
-![](https://img.shields.io/badge/▸_UPTIME-since_birth-00ff41?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/⬡_RUNS_ON-neon_%26_coffee-a78bfa?style=flat-square&labelColor=0d0021)
 &nbsp;
-![](https://img.shields.io/badge/▸_CHICKEN_DINNERS-too_many_🐔-009922?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/⬡_CHICKEN_DINNERS-every_night_🐔-c084fc?style=flat-square&labelColor=0d0021)
 
 </div>
 
 <br/>
 
 ```
-C:\> SHUTDOWN /S /T 0
-```
+// disconnect --clean --wipe_trace
 
-```
-  ┌──────────────────────────────────────────────────────────────────┐
-  │  Saving session...                                               │
-  │  Closing open ports...                                           │
-  │  Committing last changes to git...                               │
-  │  Brewing one final coffee...  ☕                                 │
-  │  HACKTERM v2.4.1 session ended. Thanks for connecting, operator. │
-  └──────────────────────────────────────────────────────────────────┘
-  
-  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  PHOSPHOR FADING  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  [ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ]  JACKING OUT...
+
+  Signal fading into the neon...
+  See you on the other side, operator. 
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,30:005500,70:001100,100:000000&height=150&section=footer&text=●%20SIGNAL%20LOST%20●&fontSize=20&fontColor=00ff41&animation=twinkling&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0021,40:1a0040,70:0d0021,100:000000&height=160&section=footer&text=///+SIGNAL+LOST+///&fontSize=20&fontColor=c084fc&animation=twinkling&fontAlignY=65&desc=01000111+01001111+01001111+01000100+01000010+01011001+01000101&descSize=11&descAlignY=85&descColor=22d3ee"/>
 </div>
