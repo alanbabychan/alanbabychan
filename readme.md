@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&width=750&lines=%5B+OK+%5D+Identity+%3A+Alan+Babychan;%5B+OK+%5D+Role+%3A+Software+Development+Engineer;%5B+OK+%5D+Company+%3A+Covermatch+Technologies+FZCO;%5B+OK+%5D+Base+%3A+Kochi%2C+Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3;%5B+OK+%5D+Achievement+%3A+YIP+5.0+District+Winner+%F0%9F%8F%86;%5B+OK+%5D+Founded+%3A+AI-based+Autism+Detection+Software;%5BWARN%5D+Caffeine+%3A+CRITICAL+%E2%98%95+%E2%98%95+%E2%98%95;%5BWARN%5D+PUBG+%26+PES+%3A+ACTIVE+THREATS+%F0%9F%8E%AE;%5B+OK+%5D+All+systems+nominal.+Shipping+anyway."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=17&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=INITIALIZING+PROFILE+SEQUENCE...;LOADING+USER+DATA+%3E%3E%3E+alan_babychan.exe;RETRIEVING+%3A+Software+Development+Engineer;RETRIEVING+%3A+Covermatch+Technologies+FZCO;RETRIEVING+%3A+Kochi%2C+Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3;DECRYPTING+ACHIEVEMENT+%3A+YIP+5.0+District+Winner+%F0%9F%8F%86;DECRYPTING+ACHIEVEMENT+%3A+AI+Autism+Detection+Founder;MOUNTING+STACK...+REACT+%2F+NEXT.JS+%2F+TYPESCRIPT+%2F+NODE;UPTIME+%3A+99.9%25+%7C+DEPLOYMENT+STATUS+%3A+LIVE;ACCESS+GRANTED.+WELCOME+TO+THE+GRID."/>
 
 </div>
 
@@ -18,17 +18,21 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/◈_STATUS-ONLINE-00ff41?style=flat-square&labelColor=000000)
-&nbsp;
-![](https://img.shields.io/badge/◈_BASE-KOCHI_KL_🇮🇳-00cc33?style=flat-square&labelColor=000000)
-&nbsp;
-![](https://img.shields.io/badge/◈_AWS-GRINDING-39ff14?style=flat-square&labelColor=000000&logo=amazonaws&logoColor=00ff41)
-&nbsp;
-![](https://img.shields.io/badge/◈_DOCKER-GRINDING-39ff14?style=flat-square&labelColor=000000&logo=docker&logoColor=00ff41)
-&nbsp;
-![](https://img.shields.io/badge/◈_PUBG-🐔_ACTIVE-006600?style=flat-square&labelColor=000000)
-&nbsp;
-![](https://img.shields.io/badge/◈_PES-⚽_ACTIVE-006600?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/SYS-ONLINE-00ff41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/NODE-KOCHI__KL_🇮🇳-00ff41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/UPTIME-99.9%25-00cc33?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/ENV-PRODUCTION-39ff14?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/BUILD-PASSING-006600?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/DEPLOY-LIVE-006600?style=flat-square&labelColor=000000)
+
+</div>
+
+<div align="center">
+
+![](https://img.shields.io/badge/PROCESS-AWS__BOOT-00ff41?style=flat-square&labelColor=000000&logo=amazonaws&logoColor=00ff41)
+![](https://img.shields.io/badge/PROCESS-DOCKER__INIT-00ff41?style=flat-square&labelColor=000000&logo=docker&logoColor=00ff41)
+![](https://img.shields.io/badge/IDLE__PID-PUBG__🐔-39ff14?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/IDLE__PID-PES__⚽-39ff14?style=flat-square&labelColor=000000)
 
 </div>
 
@@ -38,15 +42,13 @@
 
 <br/>
 
-## 🏆 Achievements
+## `> sudo cat /etc/profile.d/achievements.conf`
 
 <div align="center">
 
-![](https://img.shields.io/badge/🏆_YIP_5.0-DISTRICT_WINNER-00ff41?style=for-the-badge&labelColor=000000)
-&nbsp;
-![](https://img.shields.io/badge/🧠_AI_PROJECT-AUTISM_DETECTION_FOUNDER-00cc33?style=for-the-badge&labelColor=000000)
-&nbsp;
-![](https://img.shields.io/badge/💼_COVERMATCH-SOFTWARE_ENGINEER-39ff14?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/0x01_/_DISTRICT__WINNER-YIP_5.0-00ff41?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/0x02_/_FOUNDER-AI_AUTISM_DETECTION_SOFTWARE-00cc33?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/0x03_/_SDE-COVERMATCH_TECHNOLOGIES_FZCO-39ff14?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -56,7 +58,7 @@
 
 <br/>
 
-## 🌐 Connect With Me
+## `> ifconfig --list social`
 
 <div align="center">
 
@@ -77,11 +79,11 @@
 
 <br/>
 
-## ⚒️ Tech Stack
+## `> ls -la /var/stack/ --recursive`
 
 <div align="center">
 
-### `// Languages`
+### `[ MODULE_01 :: LANGUAGES ]`
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff41)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
@@ -91,22 +93,22 @@
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41)
 
-### `// Frameworks & Runtime`
+### `[ MODULE_02 :: FRAMEWORKS & RUNTIME ]`
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff41)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00ff41)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00ff41)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00ff41)
 
-### `// Databases`
+### `[ MODULE_03 :: DATABASES ]`
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff41)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff41)
 
-### `// CMS & Website Builders`
+### `[ MODULE_04 :: CMS & BUILDERS ]`
 ![Strapi](https://img.shields.io/badge/Strapi-000000?style=for-the-badge&logo=strapi&logoColor=00ff41)
 ![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=00ff41)
 ![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=00ff41)
 
-### `// Cloud, DevOps & Tools`
+### `[ MODULE_05 :: CLOUD · DEVOPS · TOOLS ]`
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00ff41)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00ff41)
@@ -124,7 +126,7 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## `> ./fetch_stats.sh --user alanbabychan`
 
 <div align="center">
 
@@ -148,7 +150,7 @@
 
 <br/>
 
-## 📈 Contribution Graph
+## `> tail -f /var/log/git/contributions.log`
 
 <div align="center">
 
@@ -162,7 +164,7 @@
 
 <br/>
 
-## 🐍 Contribution Snake
+## `> ./snake --daemon --watch /contributions`
 
 <div align="center">
 
@@ -176,11 +178,13 @@
 
 <br/>
 
-## ☕ Support
+## `> cat /etc/motd`
 
 <div align="center">
 
-*If my work helped you — a coffee keeps the commits coming.*
+<br/>
+
+*// end of transmission — if this repo helped you, fuel the next deploy*
 
 <br/>
 
@@ -190,13 +194,13 @@
 
 <br/><br/>
 
-![](https://img.shields.io/badge/◈_SHIPS_TO-PRODUCTION-00ff41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/KERNEL-FULL__STACK__v2025-00ff41?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/◈_TESTS-optional-00cc33?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/MEMORY-HEAP__OVERFLOW-00cc33?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/◈_DOCS-TODO-006600?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/LAST__COMMIT-"fix"-39ff14?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/◈_COFFEE-∞-39ff14?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/DOCS-/dev/null-006600?style=flat-square&labelColor=000000)
 
 </div>
 
