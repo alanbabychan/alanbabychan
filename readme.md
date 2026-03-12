@@ -2,18 +2,9 @@
 
 <div align="center">
 
-<!-- NAME -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=3500&pause=1200&color=F75C7E&center=true&vCenter=true&width=700&height=70&lines=Hey+There!+👋;I'm+ALAN+BABYCHAN" />
+<h1>Hey There! 👋 I'm <b>ALAN BABYCHAN</b></h1>
 
-<br/>
-
-<!-- ROLE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&duration=3500&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Full+Stack+Developer;React+%7C+AWS+Engineer" />
-
-<br/>
-
-<!-- CURRENT WORK -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=18&duration=4000&pause=2000&color=FF6E00&center=true&vCenter=true&width=700&lines=Currently+working+at+Covermatch+Technologies+FZCO;Building+Modern+Web+Applications;Passionate+about+Cloud+and+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&duration=3500&pause=1500&color=FF6E00&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Full+Stack+Developer;React+%7C+AWS+Engineer;Software+Engineer+at+Covermatch+Technologies+FZCO" />
 
 </div>
 
