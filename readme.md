@@ -63,19 +63,6 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<div>
-    <p>
-        <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbabychan&layout=compact&theme=radical" alt="top langs" />
-    </p>
-
-  <p>
-        <img align="left" width="400" height="160" src="https://github-readme-stats.vercel.app/api?username=alanbabychan&show_icons=true&locale=en&theme=radical" alt="alanbabychan" />
-        <img align="center" width="400" height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=alanbabychan&show_icons=true&locale=en&theme=radical" alt="alanbabychan" />
-
-   </p>
-</div>
-
 <br/><br/>
 
 <hr/>
