@@ -2,19 +2,25 @@
 
 <div align="center">
 
-<h1 align="center">
+<!-- WAVE + NAME -->
+<h1>
 Hey There! 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> 
-I'm <b>ALAN BABYCHAN</b>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+I'm <span style="color:#FF6E00;">ALAN BABYCHAN</span>
 </h1>
 
-<!-- Role Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&duration=4000&pause=2000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Full+Stack+Developer" />
+<!-- TYPING ROLES -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&duration=4000&pause=2000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Full+Stack+Developer;React+%7C+AWS+Developer" />
 
 <br/>
 
-<!-- Current Job Animation -->
+<!-- CURRENT ROLE -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=18&duration=4000&pause=2000&color=FF6E00&center=true&vCenter=true&width=700&lines=Software+Engineer+at+Covermatch+Technologies+FZCO" />
+
+<br/><br/>
+
+<!-- TECH STACK -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,python,nodejs,mongodb,aws,docker,git,github&perline=6" />
 
 </div>
 
