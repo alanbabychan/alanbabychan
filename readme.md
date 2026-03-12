@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=17&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=780&lines=INITIALIZING+PROFILE+SEQUENCE...;LOADING+USER+DATA+%3E%3E%3E+alan_babychan.exe;ACCESS+GRANTED...+WELCOME+TO+THE+GRID;RETRIEVING+PROFILE+NAME+%3A+ALAN+BABYCHAN;RETRIEVING+USERNAME+%3A+alanbabychan;RETRIEVING+ROLE+%3A+Software+Engineer+%40+Covermatch+Technologies+FZCO;DECRYPTING+ACHIEVEMENT+%3A+YIP+5.0+District+Winner+%F0%9F%8F%86;UPTIME+%3A+99.9%25+%7C+DEPLOYMENT+STATUS+%3A+LIVE;20%2B+TECH+SKILLS+%7C+10%2B+PROJECTS+DEPLOYED;15%2B+REPOSITORIES+%7C+750%2B+COMMITS+PUSHED"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=17&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=780&lines=%24+sudo+boot+--profile+alan_babychan.exe;%5BSYS%5D+kernel+loaded+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%5BAUTH%5D+verifying+credentials...+PASSED;%5BAUTH%5D+root+access+granted+%3E%3E+welcome%2C+operator.;%5BGET%5D+profile.name+%3D+%22ALAN+BABYCHAN%22;%5BGET%5D+profile.handle+%3D+%22%40alanbabychan%22;%5BGET%5D+profile.role+%3D+%22SDE+%40+Covermatch+Technologies+FZCO%22;%5BDECRYPT%5D+achievement_0x01+%3D+YIP+5.0+District+Winner+%F0%9F%8F%86;%5BDECRYPT%5D+achievement_0x02+%3D+Founded+AI+Autism+Detection+Software;%5BPING%5D+uptime+99.9%25+%7C+deployment_status%3A+LIVE+%E2%9C%93;%5BSTAT%5D+tech_skills%3A+20%2B+%7C+projects_shipped%3A+10%2B;%5BSTAT%5D+repositories%3A+15%2B+%7C+commits_pushed%3A+750%2B;%5BSYS%5D+all+modules+online.+standing+by."/>
 
 </div>
 
@@ -20,19 +20,11 @@
 
 ![](https://img.shields.io/badge/SYS-ONLINE-00ff41?style=flat-square&labelColor=000000)
 ![](https://img.shields.io/badge/NODE-KOCHI__KL_🇮🇳-00ff41?style=flat-square&labelColor=000000)
-![](https://img.shields.io/badge/UPTIME-99.9%25-00cc33?style=flat-square&labelColor=000000)
-![](https://img.shields.io/badge/ENV-PRODUCTION-39ff14?style=flat-square&labelColor=000000)
-![](https://img.shields.io/badge/BUILD-PASSING-006600?style=flat-square&labelColor=000000)
-![](https://img.shields.io/badge/DEPLOY-LIVE-006600?style=flat-square&labelColor=000000)
-
-</div>
-
-<div align="center">
-
+![](https://img.shields.io/badge/UPTIME-99.9%25-00ff41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/ENV-PRODUCTION-00ff41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/BUILD-PASSING-00ff41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/DEPLOY-LIVE-00ff41?style=flat-square&labelColor=000000)
 ![](https://img.shields.io/badge/PROCESS-AWS__BOOT-00ff41?style=flat-square&labelColor=000000&logo=amazonaws&logoColor=00ff41)
-![](https://img.shields.io/badge/PROCESS-DOCKER__INIT-00ff41?style=flat-square&labelColor=000000&logo=docker&logoColor=00ff41)
-![](https://img.shields.io/badge/IDLE__PID-PUBG__🐔-39ff14?style=flat-square&labelColor=000000)
-![](https://img.shields.io/badge/IDLE__PID-PES__⚽-39ff14?style=flat-square&labelColor=000000)
 
 </div>
 
@@ -206,7 +198,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=15&duration=2000&pause=600&color=FF0000&center=true&vCenter=true&width=780&lines=TERMINATING+SESSION...;FLUSHING+MEMORY+BUFFERS...;DELETING+CACHED+DATA...;REVOKING+ACCESS+TOKENS...;CLOSING+ALL+OPEN+PORTS...;WIPING+TEMP+FILES...;DISCONNECTING+FROM+NODE...;CONNECTION+LOST.;SIGNAL+LOST.;ACCESS+DENIED.;◈+SESSION+TERMINATED+◈"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=15&duration=1800&pause=500&color=FF2222&center=true&vCenter=true&width=780&lines=%5BSYS%5D+session+timeout+detected...;%5BKILL%5D+terminating+active+processes...;%5BFLUSH%5D+purging+memory+buffers...;%5BRM+-RF%5D+deleting+cached+data...;%5BREVOKE%5D+invalidating+access+tokens...;%5BCLOSE%5D+shutting+down+open+ports...;%5BWIPE%5D+clearing+tmp+%2F+swap+files...;%5BUNMOUNT%5D+disconnecting+from+node...;%5BNET%5D+dropping+all+connections...;%5BERR%5D+connection+lost.+signal+gone.;%5B404%5D+user+not+found.+access+denied.;%5BEOF%5D+◈+SESSION+TERMINATED+◈"/>
 
 </div>
 
