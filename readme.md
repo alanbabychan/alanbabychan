@@ -1,10 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,60:003300,100:000000&height=230&section=header&text=ALAN%20BABYCHAN&fontSize=52&fontColor=00ff41&animation=twinkling&fontAlignY=40&desc=◈%20Software%20Development%20Engineer%20◈%20Dubai%2C%20UAE&descAlignY=62&descSize=15&descColor=39ff14&stroke=00ff41&strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,65:003300,100:000000&height=230&section=header&text=ALAN%20BABYCHAN&fontSize=54&fontColor=00ff41&animation=twinkling&fontAlignY=40&desc=01000001%20%7C%20Software%20Development%20Engineer%20%7C%2001000010&descAlignY=62&descSize=13&descColor=39ff14&stroke=00ff41&strokeWidth=1"/>
 
 <div align="right">
-
 <img src="https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&color=00ff41&labelColor=000000&label=visitors"/>
 &nbsp;
 [![](https://img.shields.io/github/followers/alanbabychan?style=flat&color=00ff41&labelColor=000000&label=followers&logo=github&logoColor=00ff41)](https://github.com/alanbabychan?tab=followers)
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+01001000 01000101 01001100 01001100 01001111 00101100 00100000 01010111 01001111 01010010 01001100 01000100
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1500&color=00FF41&center=true&vCenter=true&width=700&lines=%5B+OK+%5D+Identity+confirmed+%3A+Alan+Babychan;%5B+OK+%5D+Role+%3A+Software+Development+Engineer;%5B+OK+%5D+Company+%3A+Covermatch+Technologies+FZCO;%5B+OK+%5D+Base+%3A+Dubai%2C+UAE+%F0%9F%87%A6%F0%9F%87%AA;%5BWARN%5D+Caffeine+%3A+CRITICAL+%E2%98%95+%E2%98%95+%E2%98%95;%5BWARN%5D+PUBG+Mobile+%3A+UNRESOLVED+%F0%9F%90%94;%5B+OK+%5D+All+systems+nominal.+Shipping+anyway."/>
 
 </div>
 
@@ -12,23 +22,25 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=3500&pause=1800&color=00FF41&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+—+React+|+Next.js+|+TypeScript;Software+Engineer+%40+Covermatch+Technologies+FZCO;Building+for+the+web%2C+one+commit+at+a+time."/>
+```
+  0  1  0  1  0  1  1  0  1  0  0  1  0  1  1  0  1  0  0  1  0  1  1  0  1  0  0  1  0  1  1  0
+```
 
-</div>
+![](https://img.shields.io/badge/◈_STATUS-ONLINE-00ff41?style=flat-square&labelColor=000000)
+&nbsp;
+![](https://img.shields.io/badge/◈_ROLE-SDE-00ff41?style=flat-square&labelColor=000000)
+&nbsp;
+![](https://img.shields.io/badge/◈_BASE-DUBAI_🇦🇪-00cc33?style=flat-square&labelColor=000000)
+&nbsp;
+![](https://img.shields.io/badge/◈_AWS-GRINDING-39ff14?style=flat-square&labelColor=000000&logo=amazonaws&logoColor=00ff41)
+&nbsp;
+![](https://img.shields.io/badge/◈_DOCKER-GRINDING-39ff14?style=flat-square&labelColor=000000&logo=docker&logoColor=00ff41)
+&nbsp;
+![](https://img.shields.io/badge/◈_PUBG-🐔_ACTIVE-006600?style=flat-square&labelColor=000000)
 
-<br/>
-
-<div align="center">
-
-![](https://img.shields.io/badge/▸_STATUS-ONLINE-00ff41?style=flat-square&labelColor=000000)
-&nbsp;
-![](https://img.shields.io/badge/▸_AWS-LEARNING-00cc33?style=flat-square&labelColor=000000&logo=amazonaws&logoColor=00ff41)
-&nbsp;
-![](https://img.shields.io/badge/▸_DOCKER-LEARNING-00cc33?style=flat-square&labelColor=000000&logo=docker&logoColor=00ff41)
-&nbsp;
-![](https://img.shields.io/badge/▸_STRAPI-LEARNING-00cc33?style=flat-square&labelColor=000000&logo=strapi&logoColor=00ff41)
-&nbsp;
-![](https://img.shields.io/badge/▸_PUBG-🐔_ACTIVE-006600?style=flat-square&labelColor=000000)
+```
+  1  0  0  1  0  1  1  0  1  0  0  1  0  1  1  0  1  0  0  1  0  1  1  0  1  0  0  1  0  1  1  0
+```
 
 </div>
 
@@ -36,62 +48,30 @@
 
 ---
 
-<br/>
-
-```
-root@hackbox:~$ cat about.txt
-```
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   NAME     ──  Alan Babychan                                                 ║
-║   ROLE     ──  Software Development Engineer                                 ║
-║   COMPANY  ──  Covermatch Technologies FZCO              [ ACTIVE ]          ║
-║   BASE     ──  Dubai, UAE  🇦🇪                            [ ONLINE ]          ║
-║   STACK    ──  React · Next.js · TypeScript · Node.js · AWS                  ║
-║   LOADING  ──  AWS · Docker · Strapi                     [ IN PROGRESS ]     ║
-║   SIDE OP  ──  PUBG Mobile  🐔  chasing chicken dinners  [ NEVER STOPS ]     ║
-║   FUEL     ──  ☕ × ∞                                    [ CRITICAL ]        ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
----
-
-<br/>
-
-```
-root@hackbox:~$ ifconfig --social
-```
-
-<br/>
+## 🌐 Connect
 
 <div align="center">
 
 <a href="mailto:alenbabychan@gmail.com">
-<img src="https://img.shields.io/badge/▸_GMAIL-alenbabychan@gmail.com-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=000000"/>
-</a>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
 <a href="https://www.linkedin.com/in/alanbabychan/">
-<img src="https://img.shields.io/badge/▸_LINKEDIN-alanbabychan-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000"/>
-</a>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
 <a href="https://www.alanbabychan.online/">
-<img src="https://img.shields.io/badge/▸_PORTFOLIO-alanbabychan.online-39ff14?style=for-the-badge&logo=vercel&logoColor=39ff14&labelColor=000000"/>
-</a>
-
+<img src="https://img.shields.io/badge/Portfolio-00ff41?style=for-the-badge&logo=vercel&logoColor=000000"/>
+</a>&nbsp;
 <a href="https://www.instagram.com/kiddo.x.__/">
-<img src="https://img.shields.io/badge/▸_INSTAGRAM-@kiddo.x.__-00cc33?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=000000"/>
-</a>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>&nbsp;
 <a href="https://x.com/alan_babychan">
-<img src="https://img.shields.io/badge/▸_TWITTER-@alan__babychan-00cc33?style=for-the-badge&logo=x&logoColor=00ff41&labelColor=000000"/>
-</a>
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00ff41"/>
+</a>&nbsp;
 <a href="https://www.facebook.com/kiddo.x23">
-<img src="https://img.shields.io/badge/▸_FACEBOOK-kiddo.x23-00cc33?style=for-the-badge&logo=facebook&logoColor=00ff41&labelColor=000000"/>
-</a>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>&nbsp;
 <a href="https://www.snapchat.com/add/kiddo.x23">
-<img src="https://img.shields.io/badge/▸_SNAPCHAT-kiddo.x23-009922?style=for-the-badge&logo=snapchat&logoColor=00ff41&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"/>
 </a>
 
 </div>
@@ -100,23 +80,7 @@ root@hackbox:~$ ifconfig --social
 
 ---
 
-<br/>
-
-```
-root@hackbox:~$ ls ./stack/ -la
-```
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  drwxr-xr-x  FRONTEND   ──  React · Next.js · TypeScript · JS · Tailwind    ║
-║  drwxr-xr-x  BACKEND    ──  Node.js · PHP · Python · Java · C               ║
-║  drwxr-xr-x  DATABASE   ──  MongoDB · MySQL                                  ║
-║  drwxr-xr-x  CLOUD/OPS  ──  AWS · Docker · Git · GitHub · GitLab · Vercel   ║
-║  drwxr-xr-x  TOOLS      ──  VS Code · Strapi · WordPress · Wix              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
+## ⚒️ Stack
 
 <div align="center">
 
@@ -132,13 +96,7 @@ root@hackbox:~$ ls ./stack/ -la
 
 ---
 
-<br/>
-
-```
-root@hackbox:~$ sudo ./stats.sh
-```
-
-<br/>
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -160,11 +118,7 @@ root@hackbox:~$ sudo ./stats.sh
 
 ---
 
-<br/>
-
-```
-root@hackbox:~$ tail -f /var/log/contributions
-```
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -176,11 +130,7 @@ root@hackbox:~$ tail -f /var/log/contributions
 
 ---
 
-<br/>
-
-```
-root@hackbox:~$ ./snake --watch
-```
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -192,21 +142,13 @@ root@hackbox:~$ ./snake --watch
 
 ---
 
-<br/>
-
-```
-root@hackbox:~$ cat support.txt
-```
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   If my work helped you — a coffee keeps the commits coming.  ☕            ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+## ☕ Support
 
 <div align="center">
+
+*If my work helped you — a coffee keeps the commits coming.*
+
+<br/>
 
 <a href="https://www.buymeacoffee.com/alanbabychan">
 <img height="54" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3"/>
@@ -214,21 +156,24 @@ root@hackbox:~$ cat support.txt
 
 <br/><br/>
 
-![](https://img.shields.io/badge/▸_SHIPS_TO-PRODUCTION-00ff41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/◈_SHIPS_TO-PRODUCTION-00ff41?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/▸_TESTS-optional-00cc33?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/◈_TESTS-optional-00cc33?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/▸_DOCS-TODO-006600?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/◈_DOCS-TODO-006600?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/▸_COFFEE-Infinity-39ff14?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/◈_COFFEE-∞-39ff14?style=flat-square&labelColor=000000)
 
 </div>
 
 <br/>
 
+<div align="center">
+
 ```
-root@hackbox:~$ exit
-// session terminated. good luck out there.
+01000111 01001111 01001111 01000100 01000010 01011001 01000101
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,60:003300,100:000000&height=140&section=footer&text=◈%20SIGNAL%20LOST%20◈&fontSize=20&fontColor=00ff41&animation=twinkling&fontAlignY=65"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,65:003300,100:000000&height=150&section=footer&text=◈%20SIGNAL%20LOST%20◈&fontSize=20&fontColor=00ff41&animation=twinkling&fontAlignY=65"/>
