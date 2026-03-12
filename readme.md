@@ -1,16 +1,16 @@
 <div align="right">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&color=009926&labelColor=000000&label=OPERATIVES&style=flat-square"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&color=009926&labelColor=000000&label=OPERATIVES"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/alanbabychan?style=flat-square&color=009926&labelColor=000000&label=AGENTS&logo=github&logoColor=000000"/>
+<img src="https://img.shields.io/github/followers/alanbabychan?style=flat&color=009926&labelColor=000000&label=AGENTS&logo=github&logoColor=009926"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,65:003300,100:000000&height=230&section=header&text=ALAN%20BABYCHAN&fontSize=54&fontColor=009926&animation=twinkling&fontAlignY=40&desc=01000001%20%7C%20Software%20Development%20Engineer%20%7C%2001000010&descAlignY=62&descSize=13&descColor=009926&stroke=009926&strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,65:003300,100:000000&height=230&section=header&text=ALAN%20BABYCHAN&fontSize=54&fontColor=009926&animation=twinkling&fontAlignY=40&desc=01000001%20%7C%20Software%20Development%20Engineer%20%7C%2001000010&descAlignY=62&descSize=13&descColor=39ff14&stroke=009926&strokeWidth=1"/>
 
 <br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=17&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=780&lines=%24+sudo+boot+--profile+alan_babychan.exe;%5BSYS%5D+kernel+loaded+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%5BAUTH%5D+verifying+credentials...+PASSED;%5BAUTH%5D+root+access+granted+%3E%3E+welcome%2C+operator.;%5BGET%5D+profile.name+%3D+%22ALAN+BABYCHAN%22;%5BGET%5D+profile.handle+%3D+%22%40alanbabychan%22;%5BGET%5D+profile.role+%3D+%22SDE+%40+Covermatch+Technologies+FZCO%22;%5BDECRYPT%5D+achievement_0x01+%3D+YIP+5.0+District+Winner+%F0%9F%8F%86;%5BDECRYPT%5D+achievement_0x02+%3D+Founded+AI+Autism+Detection+Software;%5BPING%5D+uptime+99.9%25+%7C+deployment_status%3A+LIVE+%E2%9C%93;%5BSTAT%5D+tech_skills%3A+20%2B+%7C+projects_shipped%3A+10%2B;%5BSTAT%5D+repositories%3A+15%2B+%7C+commits_pushed%3A+750%2B;%5BSYS%5D+all+modules+online.+standing+by."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=17&duration=2200&pause=800&color=009926&center=true&vCenter=true&width=780&lines=%24+sudo+boot+--profile+alan_babychan.exe;%5BSYS%5D+kernel+loaded+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%5BAUTH%5D+verifying+credentials...+PASSED;%5BAUTH%5D+root+access+granted+%3E%3E+welcome%2C+operator.;%5BGET%5D+profile.name+%3D+%22ALAN+BABYCHAN%22;%5BGET%5D+profile.handle+%3D+%22%40alanbabychan%22;%5BGET%5D+profile.role+%3D+%22SDE+%40+Covermatch+Technologies+FZCO%22;%5BDECRYPT%5D+achievement_0x01+%3D+YIP+5.0+District+Winner+%F0%9F%8F%86;%5BDECRYPT%5D+achievement_0x02+%3D+Founded+AI+Autism+Detection+Software;%5BPING%5D+uptime+99.9%25+%7C+deployment_status%3A+LIVE+%E2%9C%93;%5BSTAT%5D+tech_skills%3A+20%2B+%7C+projects_shipped%3A+10%2B;%5BSTAT%5D+repositories%3A+15%2B+%7C+commits_pushed%3A+750%2B;%5BSYS%5D+all+modules+online.+standing+by."/>
 
 </div>
 
@@ -39,8 +39,8 @@
 <div align="center">
 
 ![](https://img.shields.io/badge/0x01_/_DISTRICT__WINNER-YIP_5.0-009926?style=for-the-badge&labelColor=000000)
-![](https://img.shields.io/badge/0x02_/_FOUNDER-AI_AUTISM_DETECTION_SOFTWARE-009926?style=for-the-badge&labelColor=000000)
-![](https://img.shields.io/badge/0x03_/_SDE-COVERMATCH_TECHNOLOGIES_FZCO-009926?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/0x02_/_FOUNDER-AI_AUTISM_DETECTION_SOFTWARE-00cc33?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/0x03_/_SDE-COVERMATCH_TECHNOLOGIES_FZCO-39ff14?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -75,45 +75,40 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/MODULE__01-LANGUAGES-009926?style=flat-square&labelColor=000000)
+### `[ MODULE_01 :: LANGUAGES ]`
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=009926)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=009926)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=009926)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=009926)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=009926)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=009926)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=009926)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=009926)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-009926?style=for-the-badge&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-009926?style=for-the-badge&logo=typescript&logoColor=000000)
-![Python](https://img.shields.io/badge/Python-009926?style=for-the-badge&logo=python&logoColor=000000)
-![Java](https://img.shields.io/badge/Java-009926?style=for-the-badge&logo=openjdk&logoColor=000000)
-![PHP](https://img.shields.io/badge/PHP-009926?style=for-the-badge&logo=php&logoColor=000000)
-![C](https://img.shields.io/badge/C-009926?style=for-the-badge&logo=c&logoColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-009926?style=for-the-badge&logo=html5&logoColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-009926?style=for-the-badge&logo=css3&logoColor=000000)
+### `[ MODULE_02 :: FRAMEWORKS & RUNTIME ]`
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=009926)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=009926)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=009926)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=009926)
 
-![](https://img.shields.io/badge/MODULE__02-FRAMEWORKS_&_RUNTIME-009926?style=flat-square&labelColor=000000)
+### `[ MODULE_03 :: DATABASES ]`
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=009926)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=009926)
 
-![React](https://img.shields.io/badge/React-009926?style=for-the-badge&logo=react&logoColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js-009926?style=for-the-badge&logo=nextdotjs&logoColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-009926?style=for-the-badge&logo=nodedotjs&logoColor=000000)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-009926?style=for-the-badge&logo=tailwindcss&logoColor=000000)
+### `[ MODULE_04 :: CMS & BUILDERS ]`
+![Strapi](https://img.shields.io/badge/Strapi-000000?style=for-the-badge&logo=strapi&logoColor=009926)
+![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=009926)
+![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=009926)
 
-![](https://img.shields.io/badge/MODULE__03-DATABASES-009926?style=flat-square&labelColor=000000)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-009926?style=for-the-badge&logo=mongodb&logoColor=000000)
-![MySQL](https://img.shields.io/badge/MySQL-009926?style=for-the-badge&logo=mysql&logoColor=000000)
-
-![](https://img.shields.io/badge/MODULE__04-CMS_&_BUILDERS-009926?style=flat-square&labelColor=000000)
-
-![Strapi](https://img.shields.io/badge/Strapi-009926?style=for-the-badge&logo=strapi&logoColor=000000)
-![WordPress](https://img.shields.io/badge/WordPress-009926?style=for-the-badge&logo=wordpress&logoColor=000000)
-![Wix](https://img.shields.io/badge/Wix-009926?style=for-the-badge&logo=wix&logoColor=000000)
-
-![](https://img.shields.io/badge/MODULE__05-CLOUD_·_DEVOPS_·_TOOLS-009926?style=flat-square&labelColor=000000)
-
-![AWS](https://img.shields.io/badge/AWS-009926?style=for-the-badge&logo=amazonaws&logoColor=000000)
-![Docker](https://img.shields.io/badge/Docker-009926?style=for-the-badge&logo=docker&logoColor=000000)
-![Vercel](https://img.shields.io/badge/Vercel-009926?style=for-the-badge&logo=vercel&logoColor=000000)
-![Render](https://img.shields.io/badge/Render-009926?style=for-the-badge&logo=render&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-009926?style=for-the-badge&logo=git&logoColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-009926?style=for-the-badge&logo=github&logoColor=000000)
-![GitLab](https://img.shields.io/badge/GitLab-009926?style=for-the-badge&logo=gitlab&logoColor=000000)
-![VS Code](https://img.shields.io/badge/VS_Code-009926?style=for-the-badge&logo=visualstudiocode&logoColor=000000)
+### `[ MODULE_05 :: CLOUD · DEVOPS · TOOLS ]`
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=009926)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=009926)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=009926)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=009926)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=009926)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=009926)
+![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=009926)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=009926)
 
 </div>
 
@@ -127,9 +122,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alanbabychan&show_icons=true&count_private=true&include_all_commits=true&border_radius=6&border_color=009926&icon_color=009926&title_color=009926&text_color=009926&bg_color=000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alanbabychan&show_icons=true&count_private=true&include_all_commits=true&border_radius=6&border_color=009926&icon_color=39ff14&title_color=009926&text_color=00cc33&bg_color=000000"/>
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbabychan&layout=compact&border_radius=6&border_color=009926&title_color=009926&text_color=009926&bg_color=000000"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbabychan&layout=compact&border_radius=6&border_color=009926&title_color=009926&text_color=00cc33&bg_color=000000"/>
 
 </div>
 
@@ -137,7 +132,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alanbabychan&background=000000&border=009926&stroke=002200&ring=009926&fire=009926&currStreakNum=009926&sideNums=009926&currStreakLabel=009926&sideLabels=009926&dates=005500&border_radius=6"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alanbabychan&background=000000&border=009926&stroke=002200&ring=39ff14&fire=009926&currStreakNum=009926&sideNums=00cc33&currStreakLabel=39ff14&sideLabels=00cc33&dates=005500&border_radius=6"/>
 
 </div>
 
@@ -151,7 +146,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alanbabychan&bg_color=000000&color=009926&line=009926&point=009926&area=true&area_color=00992615&hide_border=false&border_color=009926&title_color=009926&radius=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alanbabychan&bg_color=000000&color=009926&line=39ff14&point=009926&area=true&area_color=00992615&hide_border=false&border_color=009926&title_color=009926&radius=6"/>
 
 </div>
 
@@ -191,11 +186,11 @@
 
 ![](https://img.shields.io/badge/KERNEL-FULL__STACK__v2025-009926?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/MEMORY-HEAP__OVERFLOW-009926?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/MEMORY-HEAP__OVERFLOW-00cc33?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/LAST__COMMIT-"fix"-009926?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/LAST__COMMIT-"fix"-39ff14?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/DOCS-/dev/null-009926?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/DOCS-/dev/null-006600?style=flat-square&labelColor=000000)
 
 </div>
 
