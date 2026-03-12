@@ -1,46 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff88,50:00ccff,100:ff6e00&height=220&section=header&text=ALAN%20BABYCHAN&fontSize=55&fontColor=ffffff&animation=twinkling&stroke=00ff88&strokeWidth=2&desc=◈%20Software%20Development%20Engineer%20◈&descSize=16&descAlignY=72&descColor=00ff88"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:003300,70:00ff00,100:000000&height=250&section=header&text=%3E%20ALAN_BABYCHAN&fontSize=50&fontColor=00ff00&animation=twinkling&fontAlignY=42&desc=%5B%20SYSTEM%20ACCESS%20GRANTED%20%5D&descSize=18&descAlignY=65&descColor=39ff14&stroke=00ff00&strokeWidth=1"/>
 
 </div>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=16&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=root%40alan-dev%3A~%24+whoami;%3E+Full+Stack+Developer+%7C+React+%7C+Next.js+%7C+AWS;root%40alan-dev%3A~%24+cat+current_mission.txt;%3E+Engineering+%40+Covermatch+Technologies+FZCO;root%40alan-dev%3A~%24+./skills+--list;%3E+Loading+tech+stack...+%5B%23%23%23%23%23%23%23%23%23%23%5D+100%25"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Typing SVG](https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=flat-square&labelColor=0d0d0d&logo=statuspage&logoColor=00ff88)]()
-&nbsp;
-[![](https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&style=flat-square&color=00ff88&labelColor=0d0d0d&label=VISITORS)](https://github.com/alanbabychan)
-&nbsp;
-[![](https://img.shields.io/github/followers/alanbabychan?style=flat-square&color=00ccff&labelColor=0d0d0d&label=FOLLOWERS&logo=github)](https://github.com/alanbabychan?tab=followers)
-&nbsp;
-[![](https://img.shields.io/github/stars/alanbabychan?style=flat-square&color=ff6e00&labelColor=0d0d0d&label=STARS&logo=github)](https://github.com/alanbabychan)
-
-</div>
-
-<br/>
-
----
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                      > SYSTEM PROFILE                           ║
-╠══════════════════════════════════════════════════════════════════╣
-║  USER        :  Alan Babychan                                   ║
-║  ROLE        :  Software Development Engineer                   ║
-║  COMPANY     :  Covermatch Technologies FZCO                    ║
-║  LOCATION    :  Dubai, UAE  🇦🇪                                  ║
-║  STACK       :  React · Next.js · TypeScript · Node · AWS       ║
-║  STATUS      :  [ ██████████████████████ ] SHIPPING             ║
-║  XP BOOST    :  Learning AWS · Docker · Strapi                  ║
-║  SIDE QUEST  :  PUBG Mobile 🐔 — Hunting chicken dinners        ║
-╚══════════════════════════════════════════════════════════════════╝
+███╗   ███╗ █████╗ ████████╗██████╗ ██╗██╗  ██╗
+████╗ ████║██╔══██╗╚══██╔══╝██╔══██╗██║╚██╗██╔╝
+██╔████╔██║███████║   ██║   ██████╔╝██║ ╚███╔╝ 
+██║╚██╔╝██║██╔══██║   ██║   ██╔══██╗██║ ██╔██╗ 
+██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██║██╔╝ ██╗
+╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+```
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=17&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=Initializing+secure+connection...;%5B%20OK%20%5D+Connection+established;%5B%20OK%20%5D+Identity+verified%3A+ALAN+BABYCHAN;%5B%20OK%20%5D+Role+%3A+Software+Development+Engineer;%5B%20OK%20%5D+Base+%3A+Dubai%2C+UAE+%F0%9F%87%A6%F0%9F%87%AA;%5B%20OK%20%5D+Company+%3A+Covermatch+Technologies+FZCO;%5B%20OK%20%5D+Clearance+level%3A+FULL+STACK;WARNING%3A+Dangerous+levels+of+caffeine+detected+%E2%98%95;%5B%20OK%20%5D+Loading+tech+stack...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;SYSTEM+READY."/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/%5B%20STATUS%20%5D-ONLINE-00ff00?style=flat-square&labelColor=000000&logo=statuspage&logoColor=00ff00)
+![](https://img.shields.io/badge/%5B%20THREAT%20LEVEL%20%5D-DEVELOPER-39ff14?style=flat-square&labelColor=000000)
+[![](https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&style=flat-square&color=00ff00&labelColor=000000&label=%5B+VISITORS+%5D)](https://github.com/alanbabychan)
+[![](https://img.shields.io/github/followers/alanbabychan?style=flat-square&color=00cc00&labelColor=000000&label=%5B+FOLLOWERS+%5D&logo=github&logoColor=00ff00)](https://github.com/alanbabychan?tab=followers)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+```bash
+┌─────────────────────────────────────────────────────────────────────┐
+│                  alan@hackbox:~$ cat /etc/profile                   │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│   NAME       →  Alan Babychan                                       │
+│   HANDLE     →  @alanbabychan                                       │
+│   ROLE       →  Software Development Engineer                       │
+│   EMPLOYER   →  Covermatch Technologies FZCO                        │
+│   LOCATION   →  Dubai, UAE  🇦🇪                                      │
+│   LANGUAGES  →  TypeScript · JavaScript · Python · PHP · Java       │
+│   FRAMEWORKS →  React · Next.js · Node.js · TailwindCSS             │
+│   CLOUD      →  AWS · Docker · Vercel                               │
+│   DATABASE   →  MongoDB · MySQL                                     │
+│   LEARNING   →  AWS Certifications · Docker · Strapi                │
+│   MISSION    →  Build. Break. Fix. Ship. Repeat.                    │
+│   WEAKNESS   →  PUBG Mobile at 2AM 🐔                               │
+│                                                                     │
+│   [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 97% HUMAN                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
@@ -49,18 +68,20 @@
 
 <br/>
 
-## `> CONNECT --all`
+## `alan@hackbox:~$ ping --all contacts`
+
+<br/>
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/◈_GMAIL-alenbabychan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:alenbabychan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-Alan_Babychan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/alanbabychan/)
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-Live_Site-00FF88?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d0d0d)](https://portfolio-alen.vercel.app/)
+[![Gmail](https://img.shields.io/badge/>>_GMAIL-alenbabychan@gmail.com-00ff00?style=for-the-badge&logo=gmail&logoColor=00ff00&labelColor=000000)](mailto:alenbabychan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/>>_LINKEDIN-alanbabychan-00ff00?style=for-the-badge&logo=linkedin&logoColor=00ff00&labelColor=000000)](https://www.linkedin.com/in/alanbabychan/)
+[![Portfolio](https://img.shields.io/badge/>>_PORTFOLIO-ENTER_SITE-00ff00?style=for-the-badge&logo=vercel&logoColor=00ff00&labelColor=000000)](https://portfolio-alen.vercel.app/)
 
-[![Instagram](https://img.shields.io/badge/◈_INSTAGRAM-@kiddo.x.__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://www.instagram.com/kiddo.x.__/)
-[![Twitter](https://img.shields.io/badge/◈_TWITTER-@alan__babychan-00ccff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d0d)](https://x.com/alan_babychan)
-[![Facebook](https://img.shields.io/badge/◈_FACEBOOK-kiddo.x23-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d0d0d)](https://www.facebook.com/kiddo.x23)
-[![Snapchat](https://img.shields.io/badge/◈_SNAPCHAT-kiddo.x23-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black&labelColor=0d0d0d)](https://www.snapchat.com/add/kiddo.x23)
+[![Instagram](https://img.shields.io/badge/>>_INSTAGRAM-@kiddo.x.__-00cc00?style=for-the-badge&logo=instagram&logoColor=00ff00&labelColor=000000)](https://www.instagram.com/kiddo.x.__/)
+[![Twitter](https://img.shields.io/badge/>>_TWITTER-@alan__babychan-00cc00?style=for-the-badge&logo=x&logoColor=00ff00&labelColor=000000)](https://x.com/alan_babychan)
+[![Facebook](https://img.shields.io/badge/>>_FACEBOOK-kiddo.x23-00cc00?style=for-the-badge&logo=facebook&logoColor=00ff00&labelColor=000000)](https://www.facebook.com/kiddo.x23)
+[![Snapchat](https://img.shields.io/badge/>>_SNAPCHAT-kiddo.x23-00cc00?style=for-the-badge&logo=snapchat&logoColor=00ff00&labelColor=000000)](https://www.snapchat.com/add/kiddo.x23)
 
 </div>
 
@@ -70,48 +91,53 @@
 
 <br/>
 
-## `> TECH --stack --verbose`
+## `alan@hackbox:~$ ls ./arsenal/ -la`
 
 <br/>
 
-<div align="center">
+```
+drwxr-xr-x  FRONTEND/
+```
+![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react&logoColor=00ff00)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=00ff00)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=00ff00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript&logoColor=00ff00)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=flat-square&logo=tailwindcss&logoColor=00ff00)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5&logoColor=00ff00)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3&logoColor=00ff00)
 
-**[ FRONTEND ]**
+```
+drwxr-xr-x  BACKEND/
+```
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs&logoColor=00ff00)
+![PHP](https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php&logoColor=00ff00)
+![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python&logoColor=00ff00)
+![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=openjdk&logoColor=00ff00)
+![C](https://img.shields.io/badge/-C-000?style=flat-square&logo=c&logoColor=00ff00)
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](/)
-[![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)](/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](/)
+```
+drwxr-xr-x  DATABASE/
+```
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat-square&logo=mongodb&logoColor=00ff00)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql&logoColor=00ff00)
 
-**[ BACKEND & DATABASE ]**
+```
+drwxr-xr-x  CLOUD_&_DEVOPS/
+```
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat-square&logo=amazonaws&logoColor=00ff00)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker&logoColor=00ff00)
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git&logoColor=00ff00)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github&logoColor=00ff00)
+![GitLab](https://img.shields.io/badge/-GitLab-000?style=flat-square&logo=gitlab&logoColor=00ff00)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat-square&logo=vercel&logoColor=00ff00)
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](/)
-
-**[ CLOUD & DEVOPS ]**
-
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](/)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](/)
-
-**[ TOOLS & CMS ]**
-
-[![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white)](/)
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](/)
-[![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)](/)
-
-</div>
+```
+drwxr-xr-x  TOOLS/
+```
+![VS Code](https://img.shields.io/badge/-VS_Code-000?style=flat-square&logo=visualstudiocode&logoColor=00ff00)
+![Strapi](https://img.shields.io/badge/-Strapi-000?style=flat-square&logo=strapi&logoColor=00ff00)
+![WordPress](https://img.shields.io/badge/-WordPress-000?style=flat-square&logo=wordpress&logoColor=00ff00)
+![Wix](https://img.shields.io/badge/-Wix-000?style=flat-square&logo=wix&logoColor=00ff00)
 
 <br/>
 
@@ -119,15 +145,15 @@
 
 <br/>
 
-## `> STATS --github --all`
+## `alan@hackbox:~$ sudo ./stats --dump`
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alanbabychan&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true&border_radius=6&border_color=00ff88&icon_color=00ff88&title_color=00ff88&text_color=ffffff&bg_color=0d0d0d" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alanbabychan&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true&border_radius=4&border_color=00ff00&icon_color=39ff14&title_color=00ff00&text_color=00cc00&bg_color=000000" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbabychan&layout=compact&theme=chartreuse-dark&border_radius=6&border_color=00ff88&title_color=00ff88&text_color=ffffff&bg_color=0d0d0d" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbabychan&layout=compact&border_radius=4&border_color=00ff00&title_color=00ff00&text_color=00cc00&bg_color=000000" height="170"/>
 
 </div>
 
@@ -135,7 +161,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alanbabychan&theme=dark&background=0d0d0d&border=00ff88&stroke=00ff88&ring=00ccff&fire=ff6e00&currStreakLabel=00ff88&sideLabels=00ccff&dates=888888&border_radius=6" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alanbabychan&background=000000&border=00ff00&stroke=003300&ring=39ff14&fire=00ff00&currStreakNum=00ff00&sideNums=00cc00&currStreakLabel=39ff14&sideLabels=00cc00&dates=006600&border_radius=4" height="170"/>
 
 </div>
 
@@ -145,11 +171,11 @@
 
 <br/>
 
-## `> ACTIVITY --graph --live`
+## `alan@hackbox:~$ tail -f /var/log/contributions`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alanbabychan&bg_color=0d0d0d&color=00ff88&line=00ccff&point=ff6e00&area=true&area_color=00ff8820&hide_border=false&border_color=00ff88&radius=6&title_color=00ff88"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alanbabychan&bg_color=000000&color=00ff00&line=39ff14&point=00ff00&area=true&area_color=00ff0015&hide_border=false&border_color=00ff00&radius=4&title_color=00ff00"/>
 
 </div>
 
@@ -159,11 +185,11 @@
 
 <br/>
 
-## `> TROPHIES --display`
+## `alan@hackbox:~$ cat trophies.log`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=alanbabychan&theme=matrix&no-frame=false&margin-w=6&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=alanbabychan&theme=matrix&no-frame=false&margin-w=4&column=7"/>
 
 </div>
 
@@ -173,7 +199,7 @@
 
 <br/>
 
-## `> SNAKE --watch`
+## `alan@hackbox:~$ watch -n1 snake`
 
 <div align="center">
 
@@ -187,29 +213,38 @@
 
 <br/>
 
-## `> SUPPORT --coffee`
+## `alan@hackbox:~$ tip --author`
 
 <div align="center">
 
 ```
-  If my code saved you hours, saved you from a bug,
-  or just inspired you — consider fueling the next commit. ☕
+  ┌──────────────────────────────────────────────────────────┐
+  │  Did my code help you?  Save you a debug session?        │
+  │  Buy me a coffee and I'll keep the commits coming. ☕    │
+  └──────────────────────────────────────────────────────────┘
 ```
 
 <a href="https://www.buymeacoffee.com/alanbabychan">
-  <img src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" height="52"/>
+  <img src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" height="50"/>
 </a>
 
 <br/><br/>
 
-![](https://img.shields.io/badge/Built%20with-passion%20%26%20caffeine-00ff88?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/BUILT_WITH-vim_btw-00ff00?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/Powered%20by-curiosity-00ccff?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/RUNS_ON-caffeine-39ff14?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/Fueled%20by-PUBG%20wins%20🐔-ff6e00?style=flat-square&labelColor=0d0d0d)
+![](https://img.shields.io/badge/SIDE_EFFECT-chicken_dinners_🐔-00cc00?style=flat-square&labelColor=000000)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6e00,50:00ccff,100:00ff88&height=140&section=footer&text=root%40alan-dev%3A~%24%20logout&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
+```
+alan@hackbox:~$ exit
+> Session terminated.
+> All traces cleared.
+> [ ████████████████████ ] LOGGING OUT...
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:003300,70:00ff00,100:000000&height=140&section=footer&text=//+EOF&fontSize=22&fontColor=00ff00&animation=twinkling&fontAlignY=65"/>
