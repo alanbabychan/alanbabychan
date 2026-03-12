@@ -1,7 +1,7 @@
 <div align="right">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&color=00ff41&labelColor=000000&label=OPERATIVES"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&color=00ff41&labelColor=000000&label=OPERATIVES&style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/alanbabychan?style=flat&color=00ff41&labelColor=000000&label=AGENTS&logo=github&logoColor=00ff41"/>
+<img src="https://img.shields.io/github/followers/alanbabychan?style=flat-square&color=00ff41&labelColor=000000&label=AGENTS&logo=github&logoColor=000000"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001a00,65:003300,100:000000&height=230&section=header&text=ALAN%20BABYCHAN&fontSize=54&fontColor=00ff41&animation=twinkling&fontAlignY=40&desc=01000001%20%7C%20Software%20Development%20Engineer%20%7C%2001000010&descAlignY=62&descSize=13&descColor=39ff14&stroke=00ff41&strokeWidth=1"/>
@@ -39,8 +39,8 @@
 <div align="center">
 
 ![](https://img.shields.io/badge/0x01_/_DISTRICT__WINNER-YIP_5.0-00ff41?style=for-the-badge&labelColor=000000)
-![](https://img.shields.io/badge/0x02_/_FOUNDER-AI_AUTISM_DETECTION_SOFTWARE-00cc33?style=for-the-badge&labelColor=000000)
-![](https://img.shields.io/badge/0x03_/_SDE-COVERMATCH_TECHNOLOGIES_FZCO-39ff14?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/0x02_/_FOUNDER-AI_AUTISM_DETECTION_SOFTWARE-00ff41?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/0x03_/_SDE-COVERMATCH_TECHNOLOGIES_FZCO-00ff41?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -54,14 +54,14 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/>>_GMAIL-alenbabychan@gmail.com-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=000000)](mailto:alenbabychan@gmail.com)
-[![](https://img.shields.io/badge/>>_LINKEDIN-alanbabychan-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000)](https://www.linkedin.com/in/alanbabychan/)
-[![](https://img.shields.io/badge/>>_PORTFOLIO-alanbabychan.online-39ff14?style=for-the-badge&logo=vercel&logoColor=39ff14&labelColor=000000)](https://www.alanbabychan.online/)
+[![](https://img.shields.io/badge/>>_GMAIL-alenbabychan@gmail.com-00ff41?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:alenbabychan@gmail.com)
+[![](https://img.shields.io/badge/>>_LINKEDIN-alanbabychan-00ff41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000)](https://www.linkedin.com/in/alanbabychan/)
+[![](https://img.shields.io/badge/>>_PORTFOLIO-alanbabychan.online-00ff41?style=for-the-badge&logo=vercel&logoColor=000000&labelColor=000000)](https://www.alanbabychan.online/)
 
-[![](https://img.shields.io/badge/>>_INSTAGRAM-@kiddo.x.__-00cc33?style=for-the-badge&logo=instagram&logoColor=00ff41&labelColor=000000)](https://www.instagram.com/kiddo.x.__/)
-[![](https://img.shields.io/badge/>>_TWITTER-@alan__babychan-00cc33?style=for-the-badge&logo=x&logoColor=00ff41&labelColor=000000)](https://x.com/alan_babychan)
-[![](https://img.shields.io/badge/>>_FACEBOOK-kiddo.x23-00cc33?style=for-the-badge&logo=facebook&logoColor=00ff41&labelColor=000000)](https://www.facebook.com/kiddo.x23)
-[![](https://img.shields.io/badge/>>_SNAPCHAT-kiddo.x23-009922?style=for-the-badge&logo=snapchat&logoColor=00ff41&labelColor=000000)](https://www.snapchat.com/add/kiddo.x23)
+[![](https://img.shields.io/badge/>>_INSTAGRAM-@kiddo.x.__-00ff41?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=000000)](https://www.instagram.com/kiddo.x.__/)
+[![](https://img.shields.io/badge/>>_TWITTER-@alan__babychan-00ff41?style=for-the-badge&logo=x&logoColor=000000&labelColor=000000)](https://x.com/alan_babychan)
+[![](https://img.shields.io/badge/>>_FACEBOOK-kiddo.x23-00ff41?style=for-the-badge&logo=facebook&logoColor=000000&labelColor=000000)](https://www.facebook.com/kiddo.x23)
+[![](https://img.shields.io/badge/>>_SNAPCHAT-kiddo.x23-00ff41?style=for-the-badge&logo=snapchat&logoColor=000000&labelColor=000000)](https://www.snapchat.com/add/kiddo.x23)
 
 </div>
 
@@ -75,40 +75,45 @@
 
 <div align="center">
 
-### `[ MODULE_01 :: LANGUAGES ]`
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00ff41)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff41)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00ff41)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00ff41)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41)
+![](https://img.shields.io/badge/MODULE__01-LANGUAGES-00ff41?style=flat-square&labelColor=000000)
 
-### `[ MODULE_02 :: FRAMEWORKS & RUNTIME ]`
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff41)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=00ff41)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00ff41)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00ff41)
+![JavaScript](https://img.shields.io/badge/JavaScript-00ff41?style=for-the-badge&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-00ff41?style=for-the-badge&logo=typescript&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-00ff41?style=for-the-badge&logo=python&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-00ff41?style=for-the-badge&logo=openjdk&logoColor=000000)
+![PHP](https://img.shields.io/badge/PHP-00ff41?style=for-the-badge&logo=php&logoColor=000000)
+![C](https://img.shields.io/badge/C-00ff41?style=for-the-badge&logo=c&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-00ff41?style=for-the-badge&logo=html5&logoColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-00ff41?style=for-the-badge&logo=css3&logoColor=000000)
 
-### `[ MODULE_03 :: DATABASES ]`
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff41)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00ff41)
+![](https://img.shields.io/badge/MODULE__02-FRAMEWORKS_&_RUNTIME-00ff41?style=flat-square&labelColor=000000)
 
-### `[ MODULE_04 :: CMS & BUILDERS ]`
-![Strapi](https://img.shields.io/badge/Strapi-000000?style=for-the-badge&logo=strapi&logoColor=00ff41)
-![WordPress](https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=00ff41)
-![Wix](https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=00ff41)
+![React](https://img.shields.io/badge/React-00ff41?style=for-the-badge&logo=react&logoColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-00ff41?style=for-the-badge&logo=nextdotjs&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-00ff41?style=for-the-badge&logo=nodedotjs&logoColor=000000)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-00ff41?style=for-the-badge&logo=tailwindcss&logoColor=000000)
 
-### `[ MODULE_05 :: CLOUD · DEVOPS · TOOLS ]`
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00ff41)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00ff41)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=00ff41)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41)
-![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=00ff41)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00ff41)
+![](https://img.shields.io/badge/MODULE__03-DATABASES-00ff41?style=flat-square&labelColor=000000)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-00ff41?style=for-the-badge&logo=mongodb&logoColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-00ff41?style=for-the-badge&logo=mysql&logoColor=000000)
+
+![](https://img.shields.io/badge/MODULE__04-CMS_&_BUILDERS-00ff41?style=flat-square&labelColor=000000)
+
+![Strapi](https://img.shields.io/badge/Strapi-00ff41?style=for-the-badge&logo=strapi&logoColor=000000)
+![WordPress](https://img.shields.io/badge/WordPress-00ff41?style=for-the-badge&logo=wordpress&logoColor=000000)
+![Wix](https://img.shields.io/badge/Wix-00ff41?style=for-the-badge&logo=wix&logoColor=000000)
+
+![](https://img.shields.io/badge/MODULE__05-CLOUD_·_DEVOPS_·_TOOLS-00ff41?style=flat-square&labelColor=000000)
+
+![AWS](https://img.shields.io/badge/AWS-00ff41?style=for-the-badge&logo=amazonaws&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-00ff41?style=for-the-badge&logo=docker&logoColor=000000)
+![Vercel](https://img.shields.io/badge/Vercel-00ff41?style=for-the-badge&logo=vercel&logoColor=000000)
+![Render](https://img.shields.io/badge/Render-00ff41?style=for-the-badge&logo=render&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-00ff41?style=for-the-badge&logo=git&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=000000)
+![GitLab](https://img.shields.io/badge/GitLab-00ff41?style=for-the-badge&logo=gitlab&logoColor=000000)
+![VS Code](https://img.shields.io/badge/VS_Code-00ff41?style=for-the-badge&logo=visualstudiocode&logoColor=000000)
 
 </div>
 
@@ -186,11 +191,11 @@
 
 ![](https://img.shields.io/badge/KERNEL-FULL__STACK__v2025-00ff41?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/MEMORY-HEAP__OVERFLOW-00cc33?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/MEMORY-HEAP__OVERFLOW-00ff41?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/LAST__COMMIT-"fix"-39ff14?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/LAST__COMMIT-"fix"-00ff41?style=flat-square&labelColor=000000)
 &nbsp;
-![](https://img.shields.io/badge/DOCS-/dev/null-006600?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/DOCS-/dev/null-00ff41?style=flat-square&labelColor=000000)
 
 </div>
 
