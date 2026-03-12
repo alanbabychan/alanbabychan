@@ -1,18 +1,25 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan" />
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+ALAN+BABYCHAN!;" />
-</h1>
+<div align="center">
 
-<h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=SOFTWARE+DEVELOPMENT+ENGINEER;FULL+STACK+DEVELOPER" />
-</h3>
+<!-- NAME -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=3500&pause=1200&color=F75C7E&center=true&vCenter=true&width=700&height=70&lines=Hey+There!+👋;I'm+ALAN+BABYCHAN" />
+
+<br/>
+
+<!-- ROLE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=24&duration=3500&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Development+Engineer;Full+Stack+Developer;React+%7C+AWS+Engineer" />
+
+<br/>
+
+<!-- CURRENT WORK -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=18&duration=4000&pause=2000&color=FF6E00&center=true&vCenter=true&width=700&lines=Currently+working+at+Covermatch+Technologies+FZCO;Building+Modern+Web+Applications;Passionate+about+Cloud+and+Scalable+Systems" />
+
+</div>
 
 <br/>
 
 <div align="center">
- 
-🔭 I’m currently working as <b>Software Engineer at Covermatch Technologies FZCO</b>
 
 🌱 I’m currently learning <b>AWS, Docker, Strapi</b>
 
