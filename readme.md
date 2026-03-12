@@ -1,7 +1,7 @@
 <div align="right">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=alanbabychan.alanbabychan&color=009926&labelColor=000000&label=OPERATIVES&style=flat-square"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/alanbabychan?style=flat-square&color=009926&labelColor=000000&label=AGENTS&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/github/followers/alanbabychan?style=flat-square&color=009926&labelColor=009926&label=AGENTS&logo=github&logoColor=ffffff"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:001400,65:002800,100:000000&height=320&section=header&text=ALAN%20BABYCHAN&fontSize=72&fontColor=009926&animation=twinkling&fontAlignY=42&desc=◈%20%20Software%20Development%20Engineer%20%20◈%20%20Full%20Stack%20Developer%20%20◈&descAlignY=64&descSize=18&descColor=009926&stroke=009926&strokeWidth=2"/>
