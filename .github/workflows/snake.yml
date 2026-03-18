@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: alanbabychan
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=228B22
-            dist/github-contribution-grid-snake-dark.svg?color_snake=00ff41
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v3
