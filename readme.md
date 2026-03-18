@@ -221,8 +221,8 @@
 ## `> ./snake --daemon --watch /contributions`
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/alanbabychan/alanbabychan/output/github-contribution-grid-snake-dark.svg"/>
+https://github.com/alanbabychan/alanbabychan/blob/output/github-contribution-grid-snake.svg
+<img src="https://github.com/alanbabychan/alanbabychan/blob/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
