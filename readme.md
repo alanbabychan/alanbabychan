@@ -183,11 +183,17 @@
 ## `> ./fetch_stats.sh --user alanbabychan`
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alanbabychan&show_icons=true&count_private=true&include_all_commits=true&border_radius=6&border_color=009926&icon_color=009926&title_color=009926&text_color=009926&bg_color=000000"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbabychan&layout=compact&border_radius=6&border_color=009926&title_color=009926&text_color=009926&bg_color=000000"/>
-
+  <img
+    height="170"
+    src="https://www.alanbabychan.online/api/github-stats/card"
+    alt="Alan Babychan's GitHub Stats"
+  />
+  &nbsp;
+  <img
+    height="170"
+    src="https://www.alanbabychan.online/api/github-languages/card"
+    alt="Most used programming languages"
+  />
 </div>
 
 <br/>
