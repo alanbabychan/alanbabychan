@@ -207,9 +207,11 @@
 ## `> tail -f /var/log/git/contributions.log`
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alanbabychan&bg_color=000000&color=009926&line=009926&point=009926&area=true&area_color=00992612&hide_border=false&border_color=009926&title_color=009926&radius=6"/>
-
+  <img
+    src="https://www.alanbabychan.online/api/github-contributions/card"
+    alt="GitHub contribution activity for Alan Babychan"
+    width="760"
+  />
 </div>
 
 <br/>
