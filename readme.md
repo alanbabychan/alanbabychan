@@ -184,18 +184,17 @@
 
 <div align="center">
   <img
-    height="170"
     src="https://www.alanbabychan.online/api/github-stats/card"
     alt="Alan Babychan's GitHub Stats"
+    width="420"
   />
   &nbsp;
   <img
-    height="170"
     src="https://www.alanbabychan.online/api/github-languages/card"
     alt="Most used programming languages"
+    width="520"
   />
 </div>
-
 <br/>
 
 <div align="center">
