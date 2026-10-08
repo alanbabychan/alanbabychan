@@ -193,9 +193,11 @@
 <br/>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alanbabychan&background=000000&border=009926&stroke=001a00&ring=009926&fire=009926&currStreakNum=009926&sideNums=009926&currStreakLabel=009926&sideLabels=009926&dates=009926&border_radius=6"/>
-
+  <img
+    src="https://www.alanbabychan.online/api/github-contributions/summary"
+    alt="GitHub contribution summary for Alan Babychan"
+    width="520"
+  />
 </div>
 
 <br/>
