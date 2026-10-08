@@ -184,10 +184,12 @@
 
 <div align="center">
   <img
-    height="170"
-    src="https://www.alanbabychan.online/api/github-stats/card"
-    alt="Alan Babychan's GitHub Stats"
+    src="https://www.alanbabychan.online/api/github-activity/card"
+    alt="GitHub contribution activity and latest release"
+    width="760"
   />
+</div>
+
   &nbsp;
   <img
     height="170"
