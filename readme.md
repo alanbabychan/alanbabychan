@@ -189,18 +189,18 @@
     width="380"
   />
   &nbsp;
-  <img
-    src="https://www.alanbabychan.online/api/github-languages/card"
-    alt="Most used programming languages"
+   <img
+    src="https://www.alanbabychan.online/api/github-contributions/summary"
+    alt="GitHub contribution summary for Alan Babychan"
     width="380"
   />
 </div>
 <br/>
 
 <div align="center">
-  <img
-    src="https://www.alanbabychan.online/api/github-contributions/summary"
-    alt="GitHub contribution summary for Alan Babychan"
+   <img
+    src="https://www.alanbabychan.online/api/github-languages/card"
+    alt="Most used programming languages"
     width="520"
   />
 </div>
